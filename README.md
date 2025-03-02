@@ -9,3 +9,8 @@
 
 **Limitations** – This data is collected Manually thus there is room for human error, then this data needs to not only be collected but needs to be transferred to a digital storage tidied and organized so it may be used. This could create a timelines issue as we don’t know how long it takes after testing to be uploaded into the system. However, we do know that they have multiple updates a year according to the data. This is also tested by humans so undoubtedly there will be some level of personal bias due to everyone’s tastebuds being different flavours appealing to different people.
 Only 1 chocolate is tasted out of a batch and not tested again after thus it may unrepresentative as some chocolates after they have been tested might change the recipe for that specific bar and if it is not tested again its previous result is unrepresentative.
+
+**Tools Used** - Tableau and Python
+
+**Story Board of Analysis is on Tableau follow this link**
+https://public.tableau.com/app/profile/andreas.tocci/viz/ChocolateRatingAnalysisStoryboard/CRAStory?publish=yes
