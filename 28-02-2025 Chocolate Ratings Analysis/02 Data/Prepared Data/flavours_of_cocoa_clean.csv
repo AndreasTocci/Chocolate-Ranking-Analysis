@@ -1,0 +1,1776 @@
+,Manufacturer,Country of Manufacturer,Cocoa (%),Bean Origin (Country),Rating,Review Year,REF
+0,A. Morin,France,63.0,Sao Tome,3.75,2016,1876
+1,A. Morin,France,70.0,Togo,2.75,2015,1676
+2,A. Morin,France,70.0,Togo,3.0,2015,1676
+3,A. Morin,France,70.0,Togo,3.5,2015,1680
+4,A. Morin,France,70.0,Peru,3.5,2015,1704
+5,A. Morin,France,70.0,Venezuela,2.75,2014,1315
+6,A. Morin,France,70.0,Cuba,3.5,2014,1315
+7,A. Morin,France,70.0,Venezuela,3.5,2014,1315
+8,A. Morin,France,70.0,Venezuela,3.75,2014,1319
+9,A. Morin,France,70.0,Peru,4.0,2014,1319
+10,A. Morin,France,70.0,Panama,2.75,2013,1011
+11,A. Morin,France,70.0,Madagascar,3.0,2013,1011
+12,A. Morin,France,70.0,Brazil,3.25,2013,1011
+13,A. Morin,France,70.0,Ecuador,3.75,2013,1011
+14,A. Morin,France,70.0,Colombia,2.75,2013,1015
+15,A. Morin,France,70.0,Burma,3.0,2013,1015
+16,A. Morin,France,70.0,Papua New Guinea,3.25,2013,1015
+17,A. Morin,France,70.0,Venezuela,4.0,2013,1015
+18,A. Morin,France,70.0,Peru,3.25,2013,1019
+19,A. Morin,France,70.0,Peru,3.5,2013,1019
+20,A. Morin,France,63.0,Peru,4.0,2013,1019
+21,A. Morin,France,70.0,Bolivia,3.5,2012,797
+22,A. Morin,France,63.0,Peru,3.75,2012,797
+23,Acalli,U.S.A.,70.0,Peru,3.75,2015,1462
+24,Acalli,U.S.A.,70.0,Peru,3.75,2015,1470
+25,Adi,Fiji,60.0,Fiji,2.75,2011,705
+26,Adi,Fiji,80.0,Fiji,3.25,2011,705
+27,Adi,Fiji,88.0,Fiji,3.5,2011,705
+28,Adi,Fiji,72.0,Fiji,3.5,2011,705
+29,Aequare (Gianduja),Ecuador,55.0,Ecuador,2.75,2009,370
+30,Aequare (Gianduja),Ecuador,70.0,Ecuador,3.0,2009,370
+31,Ah Cacao,Mexico,70.0,Mexico,3.0,2009,316
+32,Akesson's (Pralus),Switzerland,75.0,Indonesia,3.75,2011,636
+33,Akesson's (Pralus),Switzerland,75.0,Madagascar,2.75,2010,502
+34,Akesson's (Pralus),Switzerland,75.0,Brazil,2.75,2010,508
+35,Alain Ducasse,France,65.0,Trinidad,2.75,2014,1215
+36,Alain Ducasse,France,75.0,Vietnam,2.75,2014,1215
+37,Alain Ducasse,France,75.0,Madagascar,3.0,2014,1215
+38,Alain Ducasse,France,75.0,Venezuela,2.5,2013,1061
+39,Alain Ducasse,France,75.0,Peru,2.5,2013,1173
+40,Alexandre,Netherlands,70.0,Ecuador,3.5,2017,1944
+41,Alexandre,Netherlands,70.0,Nicaragua,3.5,2017,1944
+42,Alexandre,Netherlands,70.0,Vietnam,3.5,2017,1944
+43,Alexandre,Netherlands,70.0,Tanzania,3.5,2017,1944
+44,Altus aka Cao Artisan,U.S.A.,60.0,Nicaragua,2.75,2016,1728
+45,Altus aka Cao Artisan,U.S.A.,60.0,Peru,3.0,2016,1728
+46,Altus aka Cao Artisan,U.S.A.,60.0,Bolivia,2.5,2016,1732
+47,Altus aka Cao Artisan,U.S.A.,60.0,Peru,2.5,2016,1732
+48,Altus aka Cao Artisan,U.S.A.,60.0,Ecuador,2.75,2016,1732
+49,Altus aka Cao Artisan,U.S.A.,60.0,Venezuela,2.5,2013,1125
+50,Altus aka Cao Artisan,U.S.A.,60.0,Dominican Republic,3.0,2013,1125
+51,Altus aka Cao Artisan,U.S.A.,80.0,Bolivia,3.25,2013,1129
+52,Altus aka Cao Artisan,U.S.A.,60.0,Bolivia,3.0,2013,1133
+53,Altus aka Cao Artisan,U.S.A.,60.0,Peru,3.25,2013,1133
+54,Amano,U.S.A.,70.0,Papua New Guinea,4.0,2011,725
+55,Amano,U.S.A.,70.0,Dominican Republic,3.75,2010,470
+56,Amano,U.S.A.,70.0,Ecuador,4.0,2010,470
+57,Amano,U.S.A.,70.0,Venezuela,3.0,2010,544
+58,Amano,U.S.A.,70.0,Venezuela,3.0,2009,363
+59,Amano,U.S.A.,70.0,Indonesia,2.75,2008,304
+60,Amano,U.S.A.,70.0,Madagascar,3.5,2007,129
+61,Amano,U.S.A.,70.0,Venezuela,3.0,2007,147
+62,Amano,U.S.A.,70.0,Venezuela,3.75,2007,175
+63,Amatller (Simon Coll),Spain,70.0,Ghana,3.0,2009,322
+64,Amatller (Simon Coll),Spain,70.0,Ecuador,2.75,2009,327
+65,Amatller (Simon Coll),Spain,85.0,Ecuador,2.75,2009,464
+66,Amatller (Simon Coll),Spain,85.0,Ghana,3.0,2009,464
+67,Amazona,Peru,72.0,Peru,3.25,2013,1145
+68,Amazona,Peru,73.0,Peru,3.5,2013,1145
+69,Ambrosia,Canada,64.0,Belize,3.0,2015,1494
+70,Ambrosia,Canada,66.0,Madagascar,3.25,2015,1494
+71,Ambrosia,Canada,75.0,Dominican Republic,3.25,2015,1498
+72,Ambrosia,Canada,63.0,Papua New Guinea,3.25,2015,1498
+73,Ambrosia,Canada,70.0,Venezuela,3.25,2015,1498
+74,Ambrosia,Canada,68.0,Peru,3.5,2015,1498
+75,Amedei,Italy,70.0,Peru,3.75,2012,979
+76,Amedei,Italy,70.0,Venezuela,4.0,2007,111
+77,Amedei,Italy,75.0,,4.0,2007,111
+78,Amedei,Italy,70.0,Venezuela,5.0,2007,111
+79,Amedei,Italy,70.0,Ecuador,3.0,2007,123
+80,Amedei,Italy,70.0,Jamaica,3.0,2007,123
+81,Amedei,Italy,70.0,Grenada,3.5,2007,123
+82,Amedei,Italy,70.0,Venezuela,3.75,2007,123
+83,Amedei,Italy,70.0,Madagascar,4.0,2007,123
+84,Amedei,Italy,70.0,Trinidad,3.5,2007,129
+85,Amedei,Italy,63.0,,3.5,2007,170
+86,Amedei,Italy,70.0,,5.0,2006,40
+87,Amedei,Italy,66.0,,4.0,2006,75
+88,AMMA,Brazil,75.0,Brazil,3.25,2013,1065
+89,AMMA,Brazil,85.0,Brazil,2.75,2010,572
+90,AMMA,Brazil,50.0,Brazil,3.75,2010,572
+91,AMMA,Brazil,75.0,Brazil,3.75,2010,572
+92,AMMA,Brazil,60.0,Brazil,4.0,2010,572
+93,Anahata,U.S.A.,75.0,Dominican Republic,3.0,2014,1259
+94,Animas,U.S.A.,75.0,Bolivia,3.5,2016,1852
+95,Ara,France,75.0,Madagascar,3.0,2014,1375
+96,Ara,France,72.0,Mexico,2.5,2014,1379
+97,Ara,France,75.0,Ecuador,2.75,2014,1379
+98,Ara,France,75.0,Venezuela,3.0,2014,1379
+99,Arete,U.S.A.,70.0,Trinidad,3.5,2016,1724
+100,Arete,U.S.A.,70.0,Tanzania,3.75,2016,1724
+101,Arete,U.S.A.,73.0,Vietnam,3.5,2016,1900
+102,Arete,U.S.A.,70.0,Ecuador,3.25,2016,1904
+104,Arete,U.S.A.,70.0,Guatemala,3.5,2016,1904
+105,Arete,U.S.A.,70.0,Nicaragua,3.75,2016,1904
+106,Arete,U.S.A.,70.0,Honduras,3.5,2016,1908
+107,Arete,U.S.A.,70.0,Costa Rica,4.0,2016,1908
+108,Arete,U.S.A.,70.0,Peru,4.0,2016,1924
+109,Arete,U.S.A.,70.0,Dominican Republic,3.75,2016,1928
+110,Arete,U.S.A.,70.0,Fiji,3.25,2016,1928
+111,Arete,U.S.A.,73.0,Vietnam,3.25,2016,1928
+112,Arete,U.S.A.,70.0,Brazil,3.5,2015,1534
+113,Arete,U.S.A.,68.0,Peru,3.5,2015,1534
+114,Arete,U.S.A.,70.0,Ecuador,3.75,2015,1534
+115,Arete,U.S.A.,70.0,Domincan Republic,3.5,2015,1598
+116,Arete,U.S.A.,70.0,Belize,3.75,2015,1598
+117,Arete,U.S.A.,70.0,Nicaragua,4.0,2015,1598
+118,Arete,U.S.A.,75.0,Brazil,2.75,2015,1602
+119,Arete,U.S.A.,70.0,Guatemala,3.25,2015,1602
+120,Arete,U.S.A.,75.0,Ecuador,3.5,2015,1602
+121,Artisan du Chocolat,U.K.,72.0,Trinidad,3.25,2013,1193
+122,Artisan du Chocolat,U.K.,72.0,Colombia,3.75,2012,947
+123,Artisan du Chocolat,U.K.,72.0,Haiti,4.0,2011,729
+124,Artisan du Chocolat,U.K.,72.0,Panama,2.75,2011,745
+125,Artisan du Chocolat,U.K.,100.0,Venezuela,1.75,2010,486
+126,Artisan du Chocolat,U.K.,72.0,Jamaica,3.75,2010,531
+127,Artisan du Chocolat,U.K.,72.0,Costa Rica,3.25,2010,600
+128,Artisan du Chocolat,U.K.,72.0,Vietnam,3.25,2010,600
+129,Artisan du Chocolat,U.K.,72.0,Indonesia,3.5,2010,600
+130,Artisan du Chocolat,U.K.,75.0,Venezuela,2.5,2009,355
+131,Artisan du Chocolat,U.K.,72.0,Indonesia,2.75,2009,355
+132,Artisan du Chocolat,U.K.,72.0,Brazil,1.75,2009,363
+133,Artisan du Chocolat,U.K.,80.0,Madagascar,3.0,2009,363
+134,Artisan du Chocolat,U.K.,75.0,Peru,3.0,2009,363
+135,Artisan du Chocolat,U.K.,72.0,Dominican Republic,3.25,2009,363
+136,Artisan du Chocolat,U.K.,72.0,Congo,3.75,2008,300
+137,Artisan du Chocolat (Casa Luker),U.K.,72.0,Colombia,2.75,2013,1181
+138,Askinosie,U.S.A.,68.0,Tanzania,3.75,2016,1780
+139,Askinosie,U.S.A.,72.0,Tanzania,3.75,2011,647
+140,Askinosie,U.S.A.,70.0,Honduras,3.75,2011,661
+141,Askinosie,U.S.A.,77.0,Philippines,3.75,2009,331
+142,Askinosie,U.S.A.,75.0,Mexico,2.5,2007,141
+143,Askinosie,U.S.A.,70.0,Ecuador,3.0,2007,175
+144,Bahen & Co.,Australia,80.0,,3.25,2015,1474
+145,Bahen & Co.,Australia,70.0,Papua New Guinea,3.5,2015,1474
+146,Bahen & Co.,Australia,70.0,Madagascar,3.0,2012,995
+147,Bahen & Co.,Australia,70.0,Brazil,2.5,2012,999
+148,Bahen & Co.,Australia,70.0,,2.5,2012,999
+149,Bakau,Peru,70.0,Peru,2.75,2015,1454
+150,Bakau,Peru,70.0,Peru,3.5,2015,1454
+151,Bar Au Chocolat,U.S.A.,70.0,Brazil,3.5,2015,1554
+152,Bar Au Chocolat,U.S.A.,70.0,Peru,4.0,2014,1295
+153,Bar Au Chocolat,U.S.A.,70.0,Dominican Republic,3.25,2012,983
+154,Bar Au Chocolat,U.S.A.,70.0,Mexico,3.5,2012,983
+155,Bar Au Chocolat,U.S.A.,70.0,Madagascar,3.75,2012,983
+156,Baravelli's,Wales,80.0,Costa Rica,2.75,2012,955
+157,Batch,U.S.A.,65.0,Domincan Republic,3.5,2016,1840
+158,Batch,U.S.A.,70.0,Brazil,3.75,2016,1868
+159,Batch,U.S.A.,65.0,Ecuador,3.25,2016,1880
+160,Beau Cacao,U.K.,73.0,Malaysia,3.0,2017,1948
+161,Beau Cacao,U.K.,72.0,Malaysia,3.25,2017,1948
+162,Beehive,U.S.A.,80.0,Brazil,2.75,2016,1784
+163,Beehive,U.S.A.,70.0,Domincan Republic,2.75,2016,1784
+164,Beehive,U.S.A.,70.0,Ecuador,2.75,2016,1784
+165,Beehive,U.S.A.,90.0,Ecuador,2.75,2016,1788
+166,Belcolade,Belgium,64.0,Costa Rica,2.75,2010,586
+167,Belcolade,Belgium,64.0,Papua New Guinea,2.75,2010,586
+168,Belcolade,Belgium,64.0,Peru,2.75,2010,586
+169,Belcolade,Belgium,71.0,Ecuador,3.5,2010,586
+170,Bellflower,U.S.A.,70.0,Tanzania,3.5,2016,1800
+171,Bellflower,U.S.A.,70.0,Bolivia,3.25,2016,1804
+172,Bellflower,U.S.A.,70.0,Domincan Republic,3.5,2016,1864
+173,Belyzium,Germany,83.0,Belize,2.75,2016,1768
+174,Belyzium,Germany,78.0,Belize,3.0,2016,1768
+175,Belyzium,Germany,83.0,Belize,3.5,2016,1768
+176,Benoit Nihant,Belgium,74.0,Cuba,3.5,2013,1141
+177,Benoit Nihant,Belgium,74.0,Venezuela,3.5,2013,1141
+179,Benoit Nihant,Belgium,73.0,Ecuador,4.0,2013,1141
+180,Benoit Nihant,Belgium,72.0,Indonesia,4.0,2011,757
+181,Benoit Nihant,Belgium,72.0,Madagascar,3.75,2011,773
+182,Bernachon,France,55.0,,2.75,2012,797
+183,Beschle (Felchlin),Switzerland,64.0,Madagascar,3.0,2011,636
+184,Beschle (Felchlin),Switzerland,88.0,Venezuela,3.0,2011,636
+185,Beschle (Felchlin),Switzerland,72.0,Venezuela,3.5,2011,636
+186,Beschle (Felchlin),Switzerland,72.0,Ecuador,4.0,2011,636
+187,Beschle (Felchlin),Switzerland,70.0,Venezuela,3.25,2010,508
+188,Beschle (Felchlin),Switzerland,74.0,Venezuela,3.25,2010,508
+189,Beschle (Felchlin),Switzerland,64.0,Indonesia,3.5,2010,508
+190,Beschle (Felchlin),Switzerland,72.0,Venezuela,3.5,2010,508
+191,Bisou,U.S.A.,76.0,Nicaragua,2.5,2015,1482
+192,Bisou,U.S.A.,76.0,Costa Rica,2.5,2015,1486
+193,Bisou,U.S.A.,78.0,Costa Rica,2.5,2015,1486
+194,Bisou,U.S.A.,86.0,Belize,3.25,2015,1486
+195,Bittersweet Origins,U.S.A.,72.0,Ghana,3.5,2012,963
+196,Bittersweet Origins,U.S.A.,75.0,Indonesia,3.25,2010,478
+197,Bittersweet Origins,U.S.A.,70.0,"Dominican Rep., Bali",3.75,2010,502
+198,Bittersweet Origins,U.S.A.,65.0,Indonesia,2.75,2010,558
+199,Bittersweet Origins,U.S.A.,70.0,Madagascar,3.0,2010,565
+200,Bittersweet Origins,U.S.A.,78.0,Venezuela,3.0,2010,565
+201,Bittersweet Origins,U.S.A.,75.0,Dominican Republic,3.0,2009,414
+202,Bittersweet Origins,U.S.A.,65.0,Dominican Republic,3.5,2009,414
+203,Bittersweet Origins,U.S.A.,75.0,Madagascar,3.25,2009,423
+204,Bittersweet Origins,U.S.A.,65.0,Madagascar,3.5,2009,431
+205,Bittersweet Origins,U.S.A.,71.0,Madagascar,3.0,2008,233
+206,Bittersweet Origins,U.S.A.,75.0,Panama,3.5,2008,233
+207,Bittersweet Origins,U.S.A.,68.0,Dominican Republic,3.75,2008,233
+208,Bittersweet Origins,U.S.A.,70.0,Ghana,3.0,2008,256
+209,Black Mountain,U.S.A.,70.0,Dominican Republic,2.75,2008,256
+210,Black Mountain,U.S.A.,70.0,Venezuela,2.75,2008,256
+211,Black Mountain,U.S.A.,70.0,Nicaragua,3.0,2008,256
+212,Black River (A. Morin),U.K.,70.0,Jamaica,2.75,2014,1331
+213,Blanxart,Spain,82.0,Congo,3.5,2013,1046
+214,Blanxart,Spain,72.0,,2.75,2009,322
+215,Blue Bandana,U.S.A.,82.0,Madagascar,3.5,2016,1740
+216,Blue Bandana,U.S.A.,75.0,Guatemala,2.75,2016,1752
+217,Blue Bandana,U.S.A.,75.0,Tanzania,3.5,2016,1752
+218,Blue Bandana,U.S.A.,75.0,Dominican Republic,3.0,2016,1756
+219,Blue Bandana,U.S.A.,70.0,Guatemala,3.5,2012,911
+220,Blue Bandana,U.S.A.,70.0,Madagascar,3.75,2012,911
+221,Bonnat,France,75.0,Mexico,3.5,2016,1912
+222,Bonnat,France,75.0,Brazil,4.0,2014,1339
+223,Bonnat,France,75.0,Dominican Republic,3.25,2014,1418
+224,Bonnat,France,65.0,"Venez,Africa,Brasil,Peru,Mex",3.75,2014,1418
+225,Bonnat,France,75.0,Brazil,3.5,2013,1038
+226,Bonnat,France,75.0,Gabon,3.25,2013,1042
+227,Bonnat,France,75.0,Cuba,3.5,2011,629
+228,Bonnat,France,75.0,Peru,3.5,2011,629
+230,Bonnat,France,75.0,Brazil,3.75,2011,629
+231,Bonnat,France,75.0,Haiti,4.0,2011,629
+232,Bonnat,France,75.0,Madagascar,4.0,2011,629
+233,Bonnat,France,75.0,Brazil,3.5,2011,672
+234,Bonnat,France,75.0,Jamaica,3.25,2011,761
+235,Bonnat,France,75.0,Ivory Coast,3.0,2009,331
+236,Bonnat,France,75.0,Peru,2.75,2009,336
+237,Bonnat,France,75.0,Mexico,3.0,2009,336
+238,Bonnat,France,75.0,Mexico,3.0,2009,395
+239,Bonnat,France,75.0,Venezuela,4.0,2008,199
+240,Bonnat,France,75.0,Ecuador,2.5,2007,123
+241,Bonnat,France,75.0,Carribean,3.75,2006,24
+242,Bonnat,France,75.0,Venezuela,4.0,2006,32
+243,Bonnat,France,75.0,Venezuela,4.0,2006,48
+244,Bonnat,France,75.0,Madagascar,4.0,2006,75
+245,Bonnat,France,100.0,,1.5,2006,81
+246,Bonnat,France,75.0,Sri Lanka,3.0,2006,81
+247,Bonnat,France,75.0,Venezuela,4.0,2006,81
+248,Bouga Cacao (Tulicorp),Ecuador,77.0,Ecuador,3.25,2009,316
+249,Bouga Cacao (Tulicorp),Ecuador,100.0,Ecuador,1.5,2009,341
+250,Bowler Man,U.S.A.,70.0,Belize,2.75,2014,1267
+251,Bowler Man,U.S.A.,70.0,Dominican Republic,2.75,2014,1271
+252,Brasstown aka It's Chocolate,U.S.A.,70.0,Venezuela,3.5,2016,1868
+253,Brasstown aka It's Chocolate,U.S.A.,70.0,Nicaragua,3.75,2016,1868
+254,Brasstown aka It's Chocolate,U.S.A.,68.0,Dominican Republic,3.75,2015,1462
+255,Brasstown aka It's Chocolate,U.S.A.,70.0,Belize,3.75,2014,1255
+256,Brasstown aka It's Chocolate,U.S.A.,70.0,Venezuela,4.0,2014,1355
+257,Brasstown aka It's Chocolate,U.S.A.,72.0,Dominican Republic,3.0,2013,1125
+258,Brasstown aka It's Chocolate,U.S.A.,70.0,Ecuador,3.25,2013,1125
+259,Brasstown aka It's Chocolate,U.S.A.,75.0,Ghana,3.5,2013,1129
+260,Brasstown aka It's Chocolate,U.S.A.,85.0,Venezuela,3.5,2013,1129
+261,Brazen,U.S.A.,60.0,Dominican Republic,3.0,2015,1514
+262,Brazen,U.S.A.,80.0,Dominican Republic,3.25,2015,1514
+263,Brazen,U.S.A.,70.0,Guatemala,3.5,2015,1514
+264,Brazen,U.S.A.,80.0,Madagascar,2.75,2015,1518
+265,Brazen,U.S.A.,80.0,Belize,3.25,2015,1518
+266,Brazen,U.S.A.,60.0,Madagascar,3.25,2015,1518
+267,Breeze Mill,U.S.A.,70.0,Jamaica,3.0,2013,1149
+268,Bright,Australia,72.0,Madagascar,3.0,2014,1231
+269,Bright,Australia,70.0,Dominican Republic,3.5,2014,1231
+270,Bright,Australia,72.0,Ecuador,3.5,2014,1231
+271,Bright,Australia,68.0,Trinidad,2.75,2014,1235
+272,Britarev,Russia,70.0,Ecuador,3.25,2015,1638
+273,Bronx Grrl Chocolate,U.S.A.,68.0,Dominican Republic,2.75,2013,1181
+274,Burnt Fork Bend,U.S.A.,72.0,Trinidad,3.25,2014,1299
+275,Burnt Fork Bend,U.S.A.,72.0,Ecuador,3.5,2014,1299
+276,Burnt Fork Bend,U.S.A.,72.0,Belize,3.25,2014,1303
+277,Burnt Fork Bend,U.S.A.,72.0,,3.25,2014,1303
+278,Burnt Fork Bend,U.S.A.,60.0,Ecuador,2.5,2014,1323
+279,Cacao Arabuco,Puerto Rico,70.0,Puerto Rico,2.5,2015,1606
+280,Cacao Atlanta,U.S.A.,75.0,Peru,2.5,2014,1215
+281,Cacao Atlanta,U.S.A.,75.0,Dominican Republic,2.5,2010,502
+282,Cacao Atlanta,U.S.A.,75.0,Dominican Republic,2.75,2010,502
+283,Cacao Atlanta,U.S.A.,75.0,Venezuela,2.25,2010,600
+284,Cacao Barry,France,65.0,Haiti,3.5,2016,1716
+285,Cacao Barry,France,70.0,Dominican Republic,3.0,2010,586
+286,Cacao Barry,France,75.0,Tanzania,2.0,2008,300
+287,Cacao Barry,France,72.0,Venezuela,2.0,2007,141
+288,Cacao Barry,France,66.0,Mexico,3.0,2007,147
+289,Cacao de Origen,Venezuela,77.0,Venezuela,3.5,2015,1688
+290,Cacao de Origen,Venezuela,75.0,Venezuela,3.25,2015,1692
+291,Cacao de Origen,Venezuela,75.0,Venezuela,2.5,2014,1391
+292,Cacao de Origen,Venezuela,74.0,Venezuela,3.25,2014,1391
+293,Cacao de Origen,Venezuela,75.0,Venezuela,3.5,2014,1391
+294,Cacao de Origen,Venezuela,70.0,Venezuela,3.75,2014,1395
+295,Cacao de Origin,Venezuela,74.0,Venezuela,3.25,2015,1668
+296,Cacao Hunters,Colombia,71.0,Colombia,3.75,2016,1816
+297,Cacao Hunters,Colombia,74.0,Colombia,3.75,2016,1816
+298,Cacao Hunters,Colombia,72.0,Colombia,3.75,2015,1662
+299,Cacao Hunters,Colombia,64.0,Colombia,3.5,2014,1430
+300,Cacao Hunters,Colombia,70.0,Colombia,3.5,2014,1430
+301,Cacao Hunters,Colombia,69.0,Colombia,2.75,2014,1434
+302,Cacao Hunters,Colombia,70.0,Colombia,3.25,2014,1434
+303,Cacao Market,U.S.A.,70.0,Honduras,3.5,2016,1860
+304,Cacao Prieto,U.S.A.,72.0,Dominican Republic,3.75,2012,991
+305,Cacao Prieto,U.S.A.,72.0,Dominican Republic,3.0,2011,641
+306,Cacao Prieto,U.S.A.,66.0,Dominican Republic,3.75,2011,641
+307,Cacao Prieto,U.S.A.,65.0,Dominican Republic,3.25,2011,647
+308,Cacao Sampaka,Spain,70.0,Congo,3.5,2016,1908
+309,Cacao Sampaka,Spain,71.0,Madagascar,3.5,2010,508
+310,Cacao Sampaka,Spain,71.0,Ecuador,3.75,2010,523
+311,Cacao Sampaka,Spain,71.0,Papua New Guinea,4.0,2010,523
+312,Cacao Sampaka,Spain,71.0,Grenada,3.25,2010,537
+313,Cacao Sampaka,Spain,71.0,Venezuela,3.5,2010,537
+314,Cacao Sampaka,Spain,77.0,Venezuela,3.5,2010,537
+315,Cacao Sampaka,Spain,70.0,Mexico,4.0,2009,336
+316,Cacao Sampaka,Spain,70.0,Mexico,4.0,2009,346
+317,Cacao Store,Japan,70.0,Madagascar,3.0,2015,1684
+318,Cacao Store,Japan,70.0,Peru,3.25,2015,1684
+319,Cacao Store,Japan,70.0,Vietnam,3.5,2015,1684
+320,Cacaosuyo (Theobroma Inversiones),Peru,70.0,Peru,3.25,2013,1173
+321,Cacaoyere (Ecuatoriana),Ecuador,63.0,Ecuador,3.5,2008,237
+322,Cacaoyere (Ecuatoriana),Ecuador,71.0,Ecuador,3.5,2008,237
+323,Cacaoyere (Ecuatoriana),Ecuador,82.0,Ecuador,2.5,2008,245
+324,Cacaoyere (Ecuatoriana),Ecuador,91.0,Ecuador,1.5,2008,259
+325,Callebaut,Belgium,60.0,Grenada,2.75,2008,296
+326,Callebaut,Belgium,70.0,Ecuador,1.0,2007,141
+327,C-Amaro,Italy,75.0,Cuba,2.5,2014,1442
+328,C-Amaro,Italy,72.0,Dominican Republic,3.0,2014,1442
+329,C-Amaro,Italy,70.0,,3.5,2014,1442
+330,C-Amaro,Italy,100.0,Ecuador,3.5,2013,1185
+331,C-Amaro,Italy,80.0,Venezuela,3.0,2012,809
+332,C-Amaro,Italy,78.0,Sao Tome,2.25,2011,749
+333,C-Amaro,Italy,70.0,Trinidad,2.5,2011,765
+334,Cao,U.S.A.,75.0,Venezuela,2.5,2016,1804
+335,Cao,U.S.A.,73.0,Tanzania,2.75,2016,1804
+336,Cao,U.S.A.,70.0,Venezuela,3.0,2016,1804
+337,Cao,U.S.A.,75.0,Bolivia,3.0,2016,1808
+338,Cao,U.S.A.,70.0,Brazil,3.25,2016,1808
+339,Caoni (Tulicorp),Ecuador,77.0,Ecuador,2.0,2008,237
+340,Caoni (Tulicorp),Ecuador,77.0,Ecuador,2.5,2008,237
+341,Caoni (Tulicorp),Ecuador,77.0,Ecuador,2.75,2008,245
+342,Caoni (Tulicorp),Ecuador,55.0,Ecuador,3.0,2008,266
+343,Caoni (Tulicorp),Ecuador,55.0,Ecuador,3.25,2008,269
+344,Caoni (Tulicorp),Ecuador,55.0,Ecuador,3.5,2008,269
+345,Captain Pembleton,New Zealand,70.0,Papua New Guinea,3.5,2014,1263
+346,Captain Pembleton,New Zealand,70.0,Papua New Guinea,3.75,2014,1263
+347,Caribeans,Costa Rica,72.0,Guatemala,3.5,2015,1582
+348,Caribeans,Costa Rica,72.0,Costa Rica,3.25,2015,1586
+349,Caribeans,Costa Rica,72.0,Costa Rica,3.5,2015,1586
+350,Caribeans,Costa Rica,72.0,Costa Rica,3.0,2012,841
+351,Caribeans,Costa Rica,80.0,Costa Rica,2.75,2012,845
+352,Carlotta Chocolat,Colombia,65.0,Colombia,3.0,2016,1884
+353,Carlotta Chocolat,Colombia,65.0,Colombia,3.25,2016,1888
+355,Carlotta Chocolat,Colombia,65.0,Colombia,3.5,2016,1888
+357,Castronovo,U.S.A.,72.0,Belize,4.0,2016,1724
+358,Castronovo,U.S.A.,72.0,Honduras,3.5,2015,1570
+359,Castronovo,U.S.A.,70.0,Domincan Republic,3.75,2015,1570
+360,Castronovo,U.S.A.,72.0,Venezuela,3.5,2015,1574
+361,Castronovo,U.S.A.,72.0,Colombia,3.5,2014,1347
+362,Castronovo,U.S.A.,76.0,Colombia,3.5,2014,1371
+363,Castronovo,U.S.A.,70.0,Dominican Republic,2.75,2014,1407
+364,Castronovo,U.S.A.,70.0,Bolivia,3.0,2013,1101
+365,Castronovo,U.S.A.,73.0,Dominican Republic,3.5,2013,1101
+366,Castronovo,U.S.A.,70.0,Peru,2.5,2013,1105
+367,Castronovo,U.S.A.,70.0,Venezuela,3.25,2013,1105
+368,Castronovo,U.S.A.,72.0,Nicaragua,3.25,2013,1109
+369,Castronovo,U.S.A.,70.0,Peru,2.75,2013,1153
+370,Castronovo,U.S.A.,72.0,Venezuela,3.0,2013,1153
+371,Cello,U.S.A.,70.0,Ecuador,2.5,2014,1247
+372,Cello,U.S.A.,70.0,Peru,2.75,2014,1247
+373,Cello,U.S.A.,70.0,Venezuela,2.75,2014,1251
+374,Cello,U.S.A.,70.0,Bolivia,3.0,2014,1251
+375,Cemoi,France,72.0,Ecuador,2.75,2009,404
+376,Chaleur B,Canada,70.0,Uganda,2.75,2014,1426
+377,Charm School,U.S.A.,70.0,Belize,3.25,2016,1900
+378,Chchukululu (Tulicorp),Ecuador,55.0,Ecuador,2.75,2010,486
+379,Chchukululu (Tulicorp),Ecuador,75.0,Ecuador,3.0,2008,252
+380,Chequessett,U.S.A.,70.0,Costa Rica,3.5,2014,1235
+381,Chloe Chocolat,France,70.0,,3.5,2011,672
+382,Chocablog,U.K.,70.0,Ecuador,3.25,2015,1454
+383,Choco Del Sol,Germany,75.0,Belize,3.0,2014,1407
+384,Choco Del Sol,Germany,82.0,Belize,3.25,2014,1407
+385,Choco Dong,South Korea,70.0,Vietnam,2.75,2015,1696
+386,Choco Dong,South Korea,70.0,Malaysia,3.5,2015,1696
+387,Chocolarder,U.K.,65.0,Peru,2.5,2015,1482
+388,Chocolarder,U.K.,65.0,Peru,2.75,2015,1482
+389,Chocolarder,U.K.,80.0,Dominican Republic,2.5,2015,1514
+390,Chocola'te,U.S.A.,70.0,Madagascar,3.75,2011,647
+391,Chocola'te,U.S.A.,68.0,Venezuela,3.75,2011,647
+392,Chocolate Alchemist-Philly,U.S.A.,90.0,Peru,2.5,2016,1772
+393,Chocolate Alchemist-Philly,U.S.A.,80.0,,2.5,2016,1772
+394,Chocolate Con Amor,U.S.A.,70.0,Bolivia,2.5,2016,1760
+395,Chocolate Con Amor,U.S.A.,70.0,Uganda,2.75,2016,1760
+396,Chocolate Con Amor,U.S.A.,60.0,Dominican Republic,3.0,2016,1764
+397,Chocolate Con Amor,U.S.A.,75.0,Dominican Republic,3.0,2016,1764
+398,Chocolate Con Amor,U.S.A.,80.0,Venezuela,3.0,2016,1764
+399,Chocolate Con Amor,U.S.A.,70.0,Ecuador,3.25,2016,1764
+400,Chocolate Con Amor,U.S.A.,80.0,Nicaragua,2.75,2016,1768
+401,Chocolate Conspiracy,U.S.A.,74.0,Peru,2.75,2014,1259
+402,Chocolate Makers,Amsterdam,75.0,Dominican Republic,3.25,2015,1530
+403,Chocolate Makers,Amsterdam,68.0,Congo,3.5,2015,1530
+404,Chocolate Makers,Amsterdam,80.0,Peru,3.75,2015,1530
+405,"Chocolate Tree, The",Scotland,69.0,Peru,3.75,2015,1582
+406,"Chocolate Tree, The",Scotland,80.0,Venezuela,3.75,2015,1582
+407,"Chocolate Tree, The",Scotland,70.0,Peru,3.75,2013,1121
+408,"Chocolate Tree, The",Scotland,82.0,Ecuador,2.5,2012,919
+409,"Chocolate Tree, The",Scotland,68.0,Peru,2.75,2012,919
+410,"Chocolate Tree, The",Scotland,72.0,Madagascar,3.25,2012,919
+411,Chocolats Privilege,Canada,70.0,Mexico,2.5,2014,1219
+412,ChocoReko,Japan,77.0,Venezuela,3.0,2015,1454
+413,Chocosol,Canada,65.0,Mexico,3.25,2011,682
+414,Chocovic,Spain,71.0,Mexico,3.25,2010,478
+415,Chocovic,Spain,71.0,Madagascar,3.5,2010,478
+416,Chocovic,Spain,60.0,,3.25,2009,439
+417,Chocovic,Spain,75.0,,3.25,2009,439
+418,Chocovic,Spain,71.0,Venezuela,3.5,2008,209
+419,Chocovic,Spain,71.0,Ecuador,2.5,2007,117
+420,Chocovic,Spain,71.0,Grenada,2.5,2007,117
+421,Chocovic,Spain,70.0,,3.0,2007,117
+422,Chocovivo,U.S.A.,65.0,Mexico,2.5,2015,1522
+423,Chocovivo,U.S.A.,75.0,Mexico,2.5,2015,1522
+424,Choklat,Canada,80.0,Venezuela,2.5,2009,377
+425,Choklat,Canada,70.0,Mexico,2.75,2009,377
+426,Choklat,Canada,70.0,Brazil,3.0,2009,377
+427,Choklat,Canada,80.0,Brazil,3.0,2009,377
+428,Choklat,Canada,70.0,Venezuela,3.0,2009,377
+429,Chokolat Elot (Girard),Martinique,42.0,Martinique,2.75,2013,1149
+430,Choocsol,Canada,75.0,Mexico,3.25,2016,1832
+431,Christopher Morel (Felchlin),Canada,68.0,Peru,3.75,2011,666
+432,Chuao Chocolatier,U.S.A.,61.0,Venezuela,3.0,2009,445
+433,Chuao Chocolatier (Pralus),U.S.A.,77.0,Venezuela,2.75,2010,486
+434,Claudio Corallo,Sao Tome,73.5,Sao Tome & Principe,3.75,2010,470
+435,Claudio Corallo,Sao Tome,80.0,Sao Tome & Principe,3.0,2008,209
+436,Claudio Corallo,Sao Tome,75.0,Sao Tome & Principe,4.0,2008,227
+437,Claudio Corallo,Sao Tome,100.0,Sao Tome & Principe,1.0,2008,252
+438,Cloudforest,U.S.A.,73.0,Ecuador,3.5,2015,1486
+439,Coleman & Davis,U.S.A.,75.0,Madagascar,3.0,2015,1646
+440,Compania de Chocolate (Salgado),Argentina,70.0,Venezuela,3.25,2010,579
+441,Compania de Chocolate (Salgado),Argentina,80.0,Venezuela,2.75,2008,292
+442,Compania de Chocolate (Salgado),Argentina,72.0,Bolivia,3.25,2008,292
+443,Compania de Chocolate (Salgado),Argentina,70.0,Venezuela,3.75,2008,292
+444,Compania de Chocolate (Salgado),Argentina,88.0,Ecuador,2.75,2008,296
+445,Condor,U.S.A.,76.0,Ecuador,3.5,2015,1630
+446,Confluence,U.S.A.,78.0,Vietnam,2.75,2016,1916
+447,Coppeneur,Germany,65.0,Ecuador,3.25,2013,1169
+448,Coppeneur,Germany,85.0,Ghana,3.5,2012,813
+449,Coppeneur,Germany,100.0,Ecuador,1.5,2012,817
+450,Coppeneur,Germany,72.0,Sao Tome & Principe,3.75,2012,821
+451,Coppeneur,Germany,70.0,Madagascar,3.5,2012,959
+452,Coppeneur,Germany,72.0,Grenada,3.25,2010,470
+453,Coppeneur,Germany,70.0,Venezuela,3.0,2010,478
+454,Coppeneur,Germany,72.0,Ecuador,2.5,2010,558
+455,Coppeneur,Germany,72.0,Trinidad,3.0,2010,558
+456,Coppeneur,Germany,72.0,Jamaica,3.25,2010,558
+457,Coppeneur,Germany,72.0,Venezuela,3.25,2010,558
+458,Coppeneur,Germany,72.0,Peru,3.0,2009,341
+459,Coppeneur,Germany,62.0,Peru,3.25,2009,445
+460,Coppeneur,Germany,70.0,Venezuela,3.5,2009,451
+461,Coppeneur,Germany,70.0,Venezuela,3.75,2009,451
+462,Coppeneur,Germany,72.0,Mexico,3.0,2008,220
+463,Coppeneur,Germany,72.0,Venezuela,3.0,2008,220
+464,Coppeneur,Germany,72.0,Madagascar,3.0,2007,196
+465,Cote d' Or (Kraft),Belgium,70.0,,1.0,2006,48
+466,Cravve,Australia,70.0,Papua New Guinea,2.5,2014,1283
+467,Cravve,Australia,83.0,Vanuatu,2.75,2014,1335
+468,Cravve,Australia,75.0,Tanzania,3.25,2012,971
+469,Cravve,Australia,65.0,Brazil,3.25,2012,975
+470,Cravve,Australia,67.0,Fiji,3.25,2012,975
+471,Cravve,Australia,64.0,Vanuatu,3.25,2012,975
+472,Cravve,Australia,75.0,Papua New Guinea,3.5,2012,975
+473,Creo,U.S.A.,85.0,Ecuador,3.25,2016,1736
+474,Creo,U.S.A.,73.0,Ecuador,3.75,2016,1736
+475,Daintree,Australia,70.0,Australia,2.75,2015,1654
+476,Daintree,Australia,70.0,Australia,3.25,2011,785
+477,Dalloway,U.S.A.,72.0,Dominican Republic,2.75,2017,1928
+478,Damson,U.K.,70.0,Trinidad,3.0,2015,1610
+479,Damson,U.K.,70.0,Ecuador,3.5,2015,1610
+480,Damson,U.K.,70.0,Grenada,2.25,2015,1666
+481,Damson,U.K.,70.0,Nicaragua,2.75,2015,1666
+482,Dandelion,U.S.A.,70.0,,3.75,2016,1816
+483,Dandelion,U.S.A.,70.0,Belize,3.0,2015,1446
+484,Dandelion,U.S.A.,70.0,Belize,3.5,2014,1219
+485,Dandelion,U.S.A.,70.0,Ecuador,3.5,2014,1295
+486,Dandelion,U.S.A.,70.0,Liberia,2.75,2014,1303
+487,Dandelion,U.S.A.,70.0,Dominican Republic,3.75,2014,1387
+488,Dandelion,U.S.A.,70.0,Venezuela,2.75,2013,1026
+489,Dandelion,U.S.A.,70.0,Venezuela,3.25,2013,1026
+490,Dandelion,U.S.A.,70.0,Venezuela,3.5,2013,1085
+491,Dandelion,U.S.A.,70.0,Papua New Guinea,3.5,2013,1153
+492,Dandelion,U.S.A.,70.0,Costa Rica,3.0,2012,805
+493,Dandelion,U.S.A.,70.0,Colombia,3.25,2012,805
+494,Dandelion,U.S.A.,70.0,Dominican Republic,3.75,2012,915
+495,Dandelion,U.S.A.,70.0,Dominican Republic,3.25,2011,654
+496,Dandelion,U.S.A.,70.0,Madagascar,3.25,2011,654
+497,Dandelion,U.S.A.,70.0,Tanzania,3.25,2011,654
+498,Danta,Guatemala,82.0,Guatemala,3.25,2014,1223
+499,Danta,Guatemala,75.0,Venezuela,3.0,2012,987
+500,Danta,Guatemala,70.0,Guatemala,3.75,2012,987
+501,Danta,Guatemala,70.0,Madagascar,3.75,2012,987
+502,Danta,Guatemala,70.0,Guatemala,4.0,2012,987
+503,Danta,Guatemala,70.0,Guatemala,3.25,2012,991
+504,Danta,Guatemala,60.0,Guatemala,3.5,2011,661
+505,Danta,Guatemala,75.0,Guatemala,3.0,2009,423
+506,Danta,Guatemala,60.0,Guatemala,3.25,2009,423
+507,DAR,U.S.A.,72.0,Venezuela,2.75,2016,1920
+508,DAR,U.S.A.,72.0,Vietnam,3.0,2016,1920
+509,DAR,U.S.A.,70.0,"Ecuador, Costa Rica",3.25,2016,1920
+510,Dark Forest,U.S.A.,75.0,Bolivia,3.25,2016,1708
+511,Dark Forest,U.S.A.,70.0,Madagascar,3.0,2015,1550
+512,Dark Forest,U.S.A.,70.0,Venezuela,3.25,2015,1550
+513,Dark Forest,U.S.A.,70.0,Tanzania,3.0,2015,1554
+514,Dark Forest,U.S.A.,70.0,Ecuador,3.25,2015,1554
+515,Davis,U.S.A.,70.0,Ghana,2.5,2013,1093
+516,Davis,U.S.A.,70.0,Dominican Republic,2.75,2013,1093
+517,Davis,U.S.A.,70.0,Venezuela,2.75,2013,1093
+518,Davis,U.S.A.,58.0,West Africa,3.25,2012,907
+519,De Mendes,Brazil,72.0,Brazil,3.5,2015,1462
+520,De Mendes,Brazil,65.0,Brazil,3.5,2015,1462
+521,De Villiers,South Africa,70.0,Uganda,2.5,2016,1832
+522,De Villiers,South Africa,70.0,Madagascar,3.0,2016,1832
+523,Dean and Deluca (Belcolade),U.S.A.,66.0,Madagascar,2.5,2007,170
+524,Dean and Deluca (Belcolade),U.S.A.,64.0,Costa Rica,3.0,2007,175
+525,Dean and Deluca (Belcolade),U.S.A.,71.0,Ecuador,3.0,2007,175
+526,Dean and Deluca (Belcolade),U.S.A.,60.0,Ghana,3.0,2007,175
+527,Dean and Deluca (Belcolade),U.S.A.,64.0,Papua New Guinea,3.0,2007,180
+528,Dean and Deluca (Belcolade),U.S.A.,64.0,Peru,3.0,2007,180
+529,Debauve & Gallais (Michel Cluizel),France,64.0,Papua New Guinea,3.0,2009,423
+530,Debauve & Gallais (Michel Cluizel),France,66.0,Venezuela,3.75,2008,263
+531,Desbarres,Canada,72.0,Tanzania,2.5,2016,1916
+532,DeVries,U.S.A.,80.0,Bolivia,2.75,2008,241
+533,DeVries,U.S.A.,77.0,Costa Rica,3.5,2007,166
+534,DeVries,U.S.A.,77.0,Dominican Republic,3.5,2007,166
+535,Dick Taylor,U.S.A.,70.0,Guatemala,3.75,2017,1952
+536,Dick Taylor,U.S.A.,78.0,Vietnam,3.5,2016,1864
+537,Dick Taylor,U.S.A.,70.0,Bolivia,3.75,2015,1634
+538,Dick Taylor,U.S.A.,74.0,Dominican Republic,3.5,2014,1235
+539,Dick Taylor,U.S.A.,70.0,Ecuador,3.25,2013,1034
+540,Dick Taylor,U.S.A.,76.0,Ecuador,3.5,2013,1193
+541,Dick Taylor,U.S.A.,75.0,Bolivia,2.75,2012,895
+542,Dick Taylor,U.S.A.,72.0,Belize,2.75,2012,955
+543,Dick Taylor,U.S.A.,80.0,Madagascar,2.75,2011,661
+544,Dick Taylor,U.S.A.,72.0,Madagascar,3.0,2011,661
+545,Dick Taylor,U.S.A.,75.0,Venezuela,2.75,2011,682
+546,Dick Taylor,U.S.A.,74.0,Dominican Republic,3.0,2011,769
+547,Dick Taylor,U.S.A.,70.0,Ecuador,3.25,2011,769
+548,Doble & Bignall,U.K.,85.0,Venezuela,3.0,2015,1688
+549,Doble & Bignall,U.K.,72.0,Panama,3.25,2014,1371
+550,Doble & Bignall,U.K.,72.0,Venezuela,3.25,2014,1371
+551,Doble & Bignall,U.K.,72.0,Nicaragua,3.5,2014,1407
+552,Dole (Guittard),U.S.A.,70.0,Hawaii,3.75,2009,311
+553,Dolfin (Belcolade),Belgium,88.0,West Africa,3.0,2008,304
+554,Dolfin (Belcolade),Belgium,70.0,,1.5,2006,63
+555,Domori,Italy,70.0,Ecuador,3.75,2015,1672
+556,Domori,Italy,70.0,Venezuela,3.75,2015,1672
+557,Domori,Italy,100.0,Venezuela,3.0,2013,1109
+558,Domori,Italy,70.0,Tanzania,3.5,2012,863
+559,Domori,Italy,70.0,Venezuela,3.75,2012,863
+560,Domori,Italy,70.0,Venezuela,3.5,2011,693
+561,Domori,Italy,70.0,Venezuela,3.0,2010,470
+562,Domori,Italy,70.0,Venezuela,3.0,2008,227
+563,Domori,Italy,70.0,Colombia,3.0,2008,272
+564,Domori,Italy,78.0,,3.5,2008,272
+565,Domori,Italy,70.0,,3.75,2008,272
+566,Domori,Italy,70.0,Venezuela,4.0,2007,111
+567,Domori,Italy,75.0,Venezuela,3.25,2007,129
+568,Domori,Italy,60.0,Venezuela,3.25,2007,135
+569,Domori,Italy,70.0,Madagascar,3.5,2007,135
+570,Domori,Italy,70.0,Madagascar,3.5,2007,192
+571,Domori,Italy,70.0,Indonesia,3.75,2007,192
+572,Domori,Italy,70.0,Ecuador,4.0,2007,192
+573,Domori,Italy,70.0,Venezuela,4.0,2007,192
+574,Domori,Italy,70.0,Venezuela,3.0,2006,87
+575,Domori,Italy,70.0,Peru,3.25,2006,87
+576,Domori,Italy,70.0,Venezuela,3.5,2006,87
+577,Dormouse,U.K.,75.0,Grenada,2.75,2016,1880
+578,Dormouse,U.K.,70.0,Venezuela,2.5,2015,1672
+579,Dormouse,U.K.,80.0,Colombia,2.75,2015,1676
+580,Dormouse,U.K.,77.0,Madagascar,2.75,2015,1676
+581,Duffy's,U.K.,70.0,Guatemala,4.0,2015,1662
+582,Duffy's,U.K.,70.0,Nicaragua,3.5,2014,1331
+583,Duffy's,U.K.,76.0,Nicaragua,3.75,2014,1331
+584,Duffy's,U.K.,72.0,Venezuela,3.75,2012,923
+585,Duffy's,U.K.,72.0,Honduras,3.75,2011,623
+586,Duffy's,U.K.,65.0,Dominican Republic,3.5,2011,661
+587,Duffy's,U.K.,72.0,Panama,3.0,2011,697
+588,Duffy's,U.K.,71.0,Nicaragua,3.25,2011,697
+589,Duffy's,U.K.,71.0,Venezuela,3.5,2011,765
+590,Duffy's,U.K.,70.0,Panama,3.5,2010,516
+591,Duffy's,U.K.,72.0,Ecuador,3.75,2010,516
+592,Duffy's,U.K.,70.0,Ecuador,2.5,2010,523
+593,Duffy's,U.K.,70.0,Peru,3.75,2010,523
+594,Dulcinea,U.S.A.,70.0,Dominican Republic,3.25,2015,1506
+595,Durand,France,82.0,Madagascar,2.75,2012,841
+596,Durci,U.S.A.,70.0,Peru,3.5,2015,1626
+597,Durci,U.S.A.,70.0,Venezuela,3.5,2015,1626
+598,Durci,U.S.A.,70.0,Domincan Republic,3.25,2015,1630
+599,Durci,U.S.A.,70.0,Venezuela,3.25,2015,1630
+600,Durci,U.S.A.,70.0,Ecuador,4.0,2015,1630
+601,East Van Roasters,Canada,70.0,Peru,3.25,2014,1343
+602,East Van Roasters,Canada,70.0,Madagascar,3.5,2014,1343
+603,East Van Roasters,Canada,70.0,Dominican Republic,3.75,2014,1343
+604,Eau de Rose,Canada,70.0,Colombia,3.25,2016,1812
+606,Eclat (Felchlin),U.S.A.,72.0,Peru,2.75,2012,919
+607,Edelmond,Germany,68.0,Venezuela,3.0,2016,1876
+608,El Ceibo,Bolivia,75.0,Bolivia,3.75,2011,709
+609,El Ceibo,Bolivia,71.0,Bolivia,2.75,2008,252
+610,El Rey,Venezuela,70.0,Venezuela,3.75,2015,1662
+611,El Rey,Venezuela,60.5,Venezuela,2.75,2009,439
+612,El Rey,Venezuela,70.0,Venezuela,3.0,2009,439
+613,El Rey,Venezuela,74.0,Venezuela,2.5,2008,206
+614,El Rey,Venezuela,58.0,Venezuela,2.5,2008,206
+615,El Rey,Venezuela,61.0,Venezuela,3.0,2008,206
+616,El Rey,Venezuela,70.0,Venezuela,2.75,2006,32
+617,Emerald Estate,St. Lucia,60.0,St. Lucia,2.75,2013,1137
+618,Emerald Estate,St. Lucia,70.0,St. Lucia,3.25,2013,1137
+619,Emily's,Japan,79.0,Venezuela,3.0,2015,1450
+620,Emily's,Japan,78.0,Peru,3.5,2015,1454
+621,ENNA,U.S.A.,75.0,Honduras,3.25,2016,1916
+622,Enric Rovira (Claudio Corallo),Spain,80.0,Sao Tome & Principe,3.25,2010,565
+623,Erithaj (A. Morin),France,70.0,Vietnam,3.25,2014,1205
+624,Erithaj (A. Morin),France,80.0,Vietnam,3.0,2014,1209
+625,Erithaj (A. Morin),France,74.0,Vietnam,3.25,2014,1209
+626,Escazu,U.S.A.,70.0,Venezuela,2.75,2012,903
+627,Escazu,U.S.A.,65.0,Costa Rica,2.0,2009,414
+628,Escazu,U.S.A.,81.0,Venezuela,3.5,2009,423
+629,Escazu,U.S.A.,74.0,"Cost Rica, Ven",2.75,2009,431
+630,Escazu,U.S.A.,72.0,Venezuela,3.0,2008,252
+631,Ethel's Artisan (Mars),U.S.A.,55.0,"Peru, Madagascar",2.5,2011,666
+632,Ethel's Artisan (Mars),U.S.A.,55.0,Trinidad,2.5,2011,666
+633,Ethel's Artisan (Mars),U.S.A.,70.0,Venezuela,2.5,2011,666
+634,Ethel's Artisan (Mars),U.S.A.,62.0,,2.75,2011,666
+635,Ethel's Artisan (Mars),U.S.A.,62.0,"Venezuela, Trinidad",2.5,2011,672
+636,Ethereal,U.S.A.,80.0,Belize,3.0,2014,1275
+637,Ethereal,U.S.A.,80.0,Ecuador,3.5,2014,1275
+638,Ethereal,U.S.A.,80.0,Dominican Republic,3.75,2014,1275
+639,Fearless (AMMA),U.S.A.,75.0,Brazil,2.75,2010,565
+640,Feitoria Cacao,Portugal,76.0,Jamaica,3.0,2016,1732
+641,Feitoria Cacao,Portugal,76.0,Venezuela,2.5,2016,1736
+642,Feitoria Cacao,Portugal,76.0,Belize,2.75,2016,1736
+643,Felchlin,Switzerland,58.0,Grenada,3.5,2010,494
+644,Felchlin,Switzerland,62.0,,2.0,2006,105
+645,Felchlin,Switzerland,74.0,Dominican Republic,3.0,2006,105
+646,Felchlin,Switzerland,64.0,Madagascar,3.0,2006,48
+647,Felchlin,Switzerland,65.0,Venezuela,3.0,2006,48
+648,Felchlin,Switzerland,72.0,Ecuador,3.5,2006,48
+649,Felchlin,Switzerland,68.0,Bolivia,4.0,2006,56
+650,Finca,U.S.A.,65.0,Puerto Rico,2.25,2014,1283
+651,Finca,U.S.A.,80.0,Dominican Republic,3.0,2014,1283
+652,Finca,U.S.A.,70.0,Dominican Republic,3.25,2014,1283
+653,Finca,U.S.A.,85.0,Dominican Republic,2.5,2014,1287
+654,Forever Cacao,U.K.,72.0,Peru,2.75,2014,1267
+655,Forteza (Cortes),Puerto Rico,70.0,Domincan Republic,2.75,2016,1776
+656,Forteza (Cortes),Puerto Rico,80.0,Domincan Republic,2.75,2016,1776
+657,Fossa,Singapore,70.0,Madagascar,2.75,2016,1772
+658,Fossa,Singapore,75.0,Ecuador,3.5,2016,1776
+659,Fossa,Singapore,67.0,Tanzania,3.75,2016,1776
+660,Franceschi,Venezuela,70.0,Venezuela,3.5,2014,1355
+661,Franceschi,Venezuela,70.0,Venezuela,3.75,2014,1355
+662,Franceschi,Venezuela,70.0,Venezuela,3.75,2012,911
+663,Franceschi,Venezuela,60.0,Venezuela,3.5,2012,915
+664,Frederic Blondeel,Belgium,70.0,Costa Rica,3.5,2015,1538
+665,Frederic Blondeel,Belgium,75.0,Peru,3.5,2015,1538
+666,Frederic Blondeel,Belgium,80.0,Vietnam,3.0,2015,1542
+667,Frederic Blondeel,Belgium,60.0,Ghana,3.5,2014,1351
+668,Frederic Blondeel,Belgium,65.0,Madagascar,3.5,2014,1351
+669,French Broad,U.S.A.,70.0,Peru,3.5,2017,1940
+670,French Broad,U.S.A.,73.0,Guatemala,3.5,2015,1634
+671,French Broad,U.S.A.,80.0,Costa Rica,3.0,2014,1209
+672,French Broad,U.S.A.,68.0,Nicaragua,3.25,2014,1295
+673,French Broad,U.S.A.,66.0,Peru,3.5,2013,1042
+674,French Broad,U.S.A.,70.0,Peru,2.5,2012,883
+675,French Broad,U.S.A.,61.0,Peru,3.5,2012,883
+676,French Broad,U.S.A.,81.0,Peru,2.0,2012,887
+677,French Broad,U.S.A.,70.0,Peru,3.5,2011,781
+678,French Broad,U.S.A.,65.0,Dominican Republic,3.5,2011,785
+679,Fresco,U.S.A.,70.0,Peru,3.0,2014,1383
+680,Fresco,U.S.A.,70.0,Peru,3.5,2014,1383
+682,Fresco,U.S.A.,70.0,Peru,3.5,2014,1387
+683,Fresco,U.S.A.,72.0,Dominican Republic,3.25,2013,1030
+684,Fresco,U.S.A.,72.0,Dominican Republic,3.75,2013,1081
+685,Fresco,U.S.A.,70.0,Peru,3.75,2013,1117
+686,Fresco,U.S.A.,70.0,Peru,4.0,2013,1149
+687,Fresco,U.S.A.,69.0,Papua New Guinea,3.5,2012,899
+689,Fresco,U.S.A.,74.0,Madagascar,4.0,2012,915
+690,Fresco,U.S.A.,69.0,Papua New Guinea,4.0,2012,927
+691,Fresco,U.S.A.,69.0,Papua New Guinea,3.0,2012,931
+692,Fresco,U.S.A.,74.0,Ghana,2.75,2011,636
+693,Fresco,U.S.A.,70.0,Jamaica,3.25,2011,642
+694,Fresco,U.S.A.,72.0,Dominican Republic,3.5,2011,642
+695,Fresco,U.S.A.,70.0,Jamaica,3.5,2011,642
+696,Fresco,U.S.A.,74.0,Madagascar,2.75,2011,682
+697,Fresco,U.S.A.,72.0,Dominican Republic,3.25,2011,682
+698,Fresco,U.S.A.,74.0,Madagascar,3.0,2011,688
+699,Fresco,U.S.A.,76.0,Venezuela,3.25,2011,745
+700,Fresco,U.S.A.,70.0,Venezuela,4.0,2011,745
+701,Fresco,U.S.A.,80.0,Jamaica,2.75,2009,370
+702,Fresco,U.S.A.,70.0,Jamaica,3.0,2009,370
+703,Fresco,U.S.A.,70.0,Jamaica,3.25,2009,370
+704,Fresco,U.S.A.,65.0,Venezuela,3.5,2009,370
+705,Friis Holm,Denmark,70.0,Nicaragua,3.5,2016,1912
+706,Friis Holm (Bonnat),Denmark,60.0,Nicaragua,3.0,2015,1680
+707,Friis Holm (Bonnat),Denmark,85.0,Nicaragua,3.25,2015,1680
+708,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.5,2014,1259
+709,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.25,2013,1034
+710,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.5,2013,1034
+711,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.25,2012,895
+712,Friis Holm (Bonnat),Denmark,70.0,Honduras,3.25,2012,899
+713,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.25,2012,899
+714,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.75,2012,923
+715,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.25,2011,623
+716,Friis Holm (Bonnat),Denmark,70.0,Nicaragua,3.5,2011,623
+718,Fruition,U.S.A.,74.0,Bolivia,3.75,2016,1780
+719,Fruition,U.S.A.,74.0,Costa Rica,4.0,2016,1780
+720,Fruition,U.S.A.,70.0,Trinidad,3.75,2014,1347
+721,Fruition,U.S.A.,76.0,Peru,3.0,2014,1359
+722,Fruition,U.S.A.,70.0,Dominican Republic,3.75,2013,1046
+723,Fruition,U.S.A.,75.0,Ecuador,3.0,2013,1185
+724,Fruition,U.S.A.,70.0,Peru,2.5,2012,863
+725,Fruition,U.S.A.,66.0,Costa Rica,3.25,2011,753
+726,Fruition,U.S.A.,70.0,Costa Rica,3.0,2011,781
+727,Garden Island,U.S.A.,85.0,Hawaii,2.5,2014,1367
+728,Georgia Ramon,Germany,65.0,Madagascar,3.25,2015,1642
+729,Georgia Ramon,Germany,70.0,Ghana,4.0,2015,1642
+730,Georgia Ramon,Germany,70.0,Domincan Republic,3.5,2015,1646
+731,Georgia Ramon,Germany,80.0,Domincan Republic,3.5,2015,1646
+732,Georgia Ramon,Germany,75.0,Madagascar,3.5,2015,1646
+733,Glennmade,U.S.A.,70.0,Belize,3.5,2016,1848
+734,Glennmade,U.S.A.,66.0,Brazil,3.0,2015,1672
+735,Goodnow Farms,U.S.A.,77.0,Mexico,2.75,2016,1924
+736,Goodnow Farms,U.S.A.,77.0,Nicaragua,3.25,2016,1924
+737,Goodnow Farms,U.S.A.,77.0,Guatemala,3.25,2016,1924
+738,Grand Place,Vietnam,72.0,Vietnam,3.0,2011,741
+739,Green & Black's (ICAM),U.K.,70.0,,2.5,2006,15
+740,Green Bean to Bar,Japan,70.0,Madagascar,3.5,2016,1896
+741,Grenada Chocolate Co.,Grenada,82.0,Grenada,3.25,2010,494
+742,Grenada Chocolate Co.,Grenada,60.0,Grenada,2.75,2009,363
+743,Grenada Chocolate Co.,Grenada,71.0,Grenada,2.5,2008,241
+744,Guido Castagna,Italy,64.0,Ecuador,3.0,2009,355
+745,Guido Castagna,Italy,64.0,Ghana,3.0,2009,355
+746,Guido Castagna,Italy,64.0,"Trinidad, Tobago",3.0,2009,355
+747,Guido Castagna,Italy,76.0,Venezuela,3.0,2009,355
+748,Guido Castagna,Italy,64.0,"Ven, Trinidad, Ecuador",3.25,2009,355
+749,Guittard,U.S.A.,70.0,,3.75,2015,1602
+750,Guittard,U.S.A.,65.0,Haiti,2.75,2013,1053
+751,Guittard,U.S.A.,65.0,Nicaragua,2.75,2013,1053
+752,Guittard,U.S.A.,65.0,Jamaica,3.25,2013,1053
+753,Guittard,U.S.A.,65.0,Ecuador,3.5,2013,1053
+754,Guittard,U.S.A.,72.0,,2.75,2011,654
+755,Guittard,U.S.A.,61.0,,3.25,2011,654
+756,Guittard,U.S.A.,72.0,,3.25,2011,654
+757,Guittard,U.S.A.,65.0,Trinidad,3.0,2010,552
+758,Guittard,U.S.A.,55.0,Hawaii,3.0,2009,316
+759,Guittard,U.S.A.,91.0,,3.0,2009,387
+760,Guittard,U.S.A.,70.0,,3.5,2009,387
+761,Guittard,U.S.A.,65.0,Peru,3.0,2008,259
+762,Guittard,U.S.A.,64.0,,3.0,2008,276
+763,Guittard,U.S.A.,65.0,Venezuela,3.5,2008,276
+764,Guittard,U.S.A.,72.0,,3.5,2007,147
+765,Guittard,U.S.A.,65.0,Colombia,3.0,2006,15
+766,Guittard,U.S.A.,65.0,Venezuela,2.5,2006,87
+767,Guittard,U.S.A.,65.0,Madagascar,3.5,2006,87
+768,Guittard,U.S.A.,65.0,Ecuador,3.5,2006,93
+769,Guittard,U.S.A.,61.0,,3.5,2006,93
+770,Guittard,U.S.A.,61.0,,3.0,2006,99
+771,Habitual,Canada,80.0,Papua New Guinea,2.75,2014,1197
+772,Habitual,Canada,74.0,,2.75,2014,1197
+773,Habitual,Canada,75.0,Dominican Republic,3.25,2014,1197
+774,Habitual,Canada,70.0,,3.5,2014,1197
+775,Habitual,Canada,65.0,,2.75,2014,1201
+776,Habitual,Canada,70.0,,3.0,2014,1201
+777,Habitual,Canada,80.0,,3.0,2014,1201
+778,Habitual,Canada,66.0,Hawaii,3.25,2014,1201
+779,Habitual,Canada,100.0,,2.0,2014,1205
+780,Hachez,Germany,77.0,Ecuador,2.5,2007,166
+781,Hacienda El Castillo,Ecuador,55.0,Ecuador,2.75,2014,1327
+782,Hacienda El Castillo,Ecuador,70.0,Ecuador,3.0,2014,1327
+783,Haigh,Australia,70.0,"South America, Africa",3.0,2011,701
+784,Harper Macaw,U.S.A.,85.0,Brazil,3.25,2016,1808
+785,Harper Macaw,U.S.A.,67.0,Brazil,3.0,2015,1696
+786,Harper Macaw,U.S.A.,77.0,Brazil,3.5,2015,1700
+787,Harper Macaw,U.S.A.,74.0,Brazil,3.5,2015,1700
+788,Heilemann,Germany,64.0,Peru,2.75,2016,1876
+789,Heirloom Cacao Preservation (Brasstown),U.S.A.,70.0,Belize,3.25,2016,1748
+790,Heirloom Cacao Preservation (Fruition),U.S.A.,74.0,Costa Rica,3.5,2016,1748
+791,Heirloom Cacao Preservation (Guittard),U.S.A.,67.0,Bolivia,3.5,2014,1239
+792,Heirloom Cacao Preservation (Guittard),U.S.A.,67.0,Bolivia,3.0,2014,1243
+793,Heirloom Cacao Preservation (Guittard),U.S.A.,67.0,Ecuador,3.75,2014,1243
+794,Heirloom Cacao Preservation (Guittard),U.S.A.,67.0,Hawaii,3.75,2014,1243
+795,Heirloom Cacao Preservation (Manoa),U.S.A.,72.0,Hawaii,3.5,2016,1744
+796,Heirloom Cacao Preservation (Millcreek),U.S.A.,70.0,Ecuador,3.5,2016,1744
+797,Heirloom Cacao Preservation (Mindo),U.S.A.,77.0,Ecuador,3.5,2016,1748
+798,Heirloom Cacao Preservation (Zokoko),U.S.A.,68.0,Bolivia,3.75,2016,1744
+799,Heirloom Cacao Preservation (Zokoko),U.S.A.,72.0,Bolivia,4.0,2016,1744
+800,hello cocoa,U.S.A.,57.0,Uganda,2.75,2015,1458
+801,hello cocoa,U.S.A.,74.0,Venezuela,3.5,2015,1462
+802,hexx,U.S.A.,70.0,Tanzania,2.75,2015,1546
+803,hexx,U.S.A.,74.0,Madagascar,3.0,2015,1546
+804,hexx,U.S.A.,70.0,Venezuela,3.0,2015,1546
+805,hexx,U.S.A.,73.0,Ecuador,3.25,2015,1550
+806,hexx,U.S.A.,70.0,Peru,3.25,2015,1550
+807,Hogarth,New Zealand,70.0,Madagascar,2.75,2016,1712
+808,Hogarth,New Zealand,72.0,Venezuela,2.75,2016,1712
+809,Hogarth,New Zealand,75.0,Domincan Republic,3.25,2016,1712
+810,Hogarth,New Zealand,66.0,Peru,3.5,2016,1712
+811,Hoja Verde (Tulicorp),Ecuador,80.0,Ecuador,2.0,2009,414
+812,Hoja Verde (Tulicorp),Ecuador,80.0,Ecuador,2.5,2009,414
+813,Hoja Verde (Tulicorp),Ecuador,72.0,Ecuador,3.0,2009,414
+814,Hoja Verde (Tulicorp),Ecuador,58.0,Ecuador,3.25,2009,414
+815,Hoja Verde (Tulicorp),Ecuador,58.0,Ecuador,3.5,2009,414
+816,Holy Cacao,Israel,70.0,Peru,2.75,2016,1872
+817,Holy Cacao,Israel,70.0,Ecuador,3.5,2015,1466
+818,Holy Cacao,Israel,70.0,Madagascar,3.5,2015,1466
+819,Holy Cacao,Israel,70.0,Trinidad,3.5,2015,1466
+820,Holy Cacao,Israel,70.0,Venezuela,3.5,2015,1466
+821,Holy Cacao,Israel,70.0,Ivory Coast,2.5,2009,431
+822,Holy Cacao,Israel,70.0,Dominican Republic,2.75,2009,431
+823,Holy Cacao,Israel,70.0,Peru,3.5,2009,431
+824,Holy Cacao,Israel,75.0,Dominican Republic,3.75,2009,431
+825,Honest,South Africa,72.0,Ecuador,2.5,2014,1327
+826,Hotel Chocolat,U.K.,70.0,St. Lucia,2.75,2015,1654
+827,Hotel Chocolat,U.K.,70.0,St. Lucia,4.0,2013,1030
+828,Hotel Chocolat,U.K.,100.0,St. Lucia,1.75,2013,1113
+829,Hotel Chocolat (Coppeneur),U.K.,75.0,Trinidad,3.0,2013,1038
+830,Hotel Chocolat (Coppeneur),U.K.,80.0,Vietnam,3.5,2013,1038
+831,Hotel Chocolat (Coppeneur),U.K.,90.0,Ecuador,3.0,2013,1065
+832,Hotel Chocolat (Coppeneur),U.K.,72.0,Madagascar,3.0,2013,1065
+833,Hotel Chocolat (Coppeneur),U.K.,82.0,Ecuador,3.5,2013,1065
+834,Hotel Chocolat (Coppeneur),U.K.,100.0,Peru,2.75,2013,1109
+835,Hotel Chocolat (Coppeneur),U.K.,100.0,Ecuador,2.5,2013,1113
+836,Hotel Chocolat (Coppeneur),U.K.,100.0,Dominican Republic,2.75,2013,1113
+837,Hotel Chocolat (Coppeneur),U.K.,66.0,Madagascar,3.5,2012,809
+838,Hotel Chocolat (Coppeneur),U.K.,80.0,Ecuador,3.0,2011,623
+839,Hotel Chocolat (Coppeneur),U.K.,65.0,St. Lucia,3.0,2011,623
+840,Hotel Chocolat (Coppeneur),U.K.,65.0,St. Lucia,3.25,2011,623
+841,Hotel Chocolat (Coppeneur),U.K.,70.0,Ecuador,2.75,2010,552
+842,Hotel Chocolat (Coppeneur),U.K.,70.0,Dominican Republic,3.0,2010,552
+843,Hotel Chocolat (Coppeneur),U.K.,70.0,Venezuela,2.75,2010,600
+844,Hotel Chocolat (Coppeneur),U.K.,72.0,St. Lucia,3.0,2008,245
+845,Hotel Chocolat (Coppeneur),U.K.,80.0,Uganda,2.5,2008,296
+846,Hotel Chocolat (Coppeneur),U.K.,75.0,Tanzania,2.75,2008,296
+847,Hotel Chocolat (Coppeneur),U.K.,72.0,Sao Tome,3.0,2008,300
+848,Hummingbird,Canada,70.0,Vietnam,3.5,2015,1542
+849,Hummingbird,Canada,70.0,Bolivia,3.0,2014,1307
+850,Hummingbird,Canada,70.0,Bolivia,3.0,2014,1311
+851,Hummingbird,Canada,70.0,Nicaragua,3.0,2014,1311
+852,Hummingbird,Canada,70.0,Dominican Republic,3.75,2014,1311
+853,Hummingbird,Canada,70.0,Dominican Republic,3.5,2014,1387
+854,Hummingbird,Canada,70.0,Venezuela,3.25,2013,1097
+855,Hummingbird,Canada,70.0,Venezuela,3.75,2013,1097
+856,Idilio (Felchlin),Switzerland,72.0,Venezuela,3.75,2013,1085
+857,Idilio (Felchlin),Switzerland,72.0,Venezuela,3.75,2011,725
+859,Idilio (Felchlin),Switzerland,72.0,Venezuela,3.25,2011,729
+860,Idilio (Felchlin),Switzerland,72.0,Venezuela,3.75,2011,733
+861,Idilio (Felchlin),Switzerland,74.0,Venezuela,4.0,2011,733
+862,Idilio (Felchlin),Switzerland,72.0,Venezuela,3.5,2011,737
+863,Idilio (Felchlin),Switzerland,70.0,Venezuela,4.0,2011,737
+864,Idilio (Felchlin),Switzerland,72.0,Venezuela,4.0,2011,737
+866,Indah,India,61.0,India,2.5,2016,1788
+867,Indaphoria,U.S.A.,70.0,Dominican Republic,3.25,2012,821
+868,Indaphoria,U.S.A.,70.0,Dominican Republic,2.75,2012,907
+869,Indi,U.S.A.,77.0,Honduras,3.0,2014,1255
+870,iQ Chocolate,Scotland,72.0,Peru,2.75,2012,943
+871,iQ Chocolate,Scotland,72.0,Peru,3.0,2012,943
+872,Isidro,U.S.A.,72.0,Madagascar,3.5,2014,1275
+873,Isidro,U.S.A.,72.0,Peru,2.25,2014,1279
+874,Isidro,U.S.A.,72.0,Belize,3.25,2014,1279
+875,Isidro,U.S.A.,72.0,Dominican Republic,3.25,2014,1279
+876,Izard,U.S.A.,70.0,Belize,3.5,2015,1542
+877,Izard,U.S.A.,70.0,Dominican Republic,2.75,2015,1546
+878,Jacque Torres,U.S.A.,71.0,Ghana,2.0,2006,5
+879,Jordis,Czech Republic,63.0,Madagascar,2.75,2015,1534
+880,Just Good Chocolate,U.S.A.,70.0,Belize,3.5,2014,1375
+881,Just Good Chocolate,U.S.A.,70.0,Madagascar,3.5,2014,1375
+882,Just Good Chocolate,U.S.A.,70.0,Peru,4.0,2014,1375
+883,Kah Kow,Domincan Republic,70.0,Dominican Republic,3.5,2013,1061
+884,Kah Kow,Domincan Republic,82.0,Dominican Republic,3.0,2013,1069
+885,Kah Kow,Domincan Republic,55.0,Dominican Republic,3.25,2013,1069
+886,Kah Kow,Domincan Republic,62.0,Dominican Republic,3.25,2013,1073
+887,Kakao,Germany,64.0,Peru,2.5,2012,837
+888,Kakao,Germany,65.0,Vanuatu,3.75,2009,387
+889,Kallari (Ecuatoriana),Ecuador,70.0,Ecuador,3.0,2008,241
+890,Kallari (Ecuatoriana),Ecuador,70.0,Ecuador,3.5,2008,241
+891,Kallari (Ecuatoriana),Ecuador,75.0,Ecuador,2.75,2008,245
+892,Kallari (Ecuatoriana),Ecuador,85.0,Ecuador,2.5,2008,248
+893,Kallari (Ecuatoriana),Ecuador,85.0,Ecuador,2.75,2008,248
+894,Kallari (Ecuatoriana),Ecuador,85.0,Ecuador,3.0,2008,248
+895,Kallari (Ecuatoriana),Ecuador,75.0,Ecuador,2.5,2008,263
+896,Kallari (Ecuatoriana),Ecuador,85.0,Ecuador,3.0,2008,269
+897,Kaoka (Cemoi),France,70.0,,2.75,2009,404
+898,Kaoka (Cemoi),France,80.0,Ecuador,2.75,2009,423
+899,Kerchner,U.S.A.,70.0,Dominican Republic,3.75,2013,1133
+900,Ki' Xocolatl,Mexico,72.0,Mexico,2.0,2009,431
+901,Kiskadee,U.S.A.,60.0,Dominican Republic,3.0,2014,1251
+902,Kto,U.S.A.,72.0,Peru,2.5,2014,1422
+903,Kto,U.S.A.,72.0,Venezuela,2.75,2014,1422
+904,Kto,U.S.A.,72.0,Belize,3.0,2014,1422
+905,Kto,U.S.A.,72.0,Madagascar,3.25,2014,1422
+906,Kto,U.S.A.,90.0,Belize,3.25,2014,1426
+907,Kto,U.S.A.,72.0,Dominican Republic,3.25,2014,1426
+909,K'ul,U.S.A.,70.0,Haiti,3.25,2016,1840
+910,K'ul,U.S.A.,70.0,Peru,2.75,2016,1852
+911,K'ul,U.S.A.,70.0,Ecuador,3.75,2016,1852
+912,K'ul,U.S.A.,70.0,Brazil,3.75,2016,1852
+913,Kyya,U.S.A.,72.5,Uganda,2.5,2014,1359
+914,Kyya,U.S.A.,72.5,Dominican Republic,3.0,2014,1359
+915,Kyya,U.S.A.,72.5,Ecuador,2.5,2014,1363
+916,Kyya,U.S.A.,72.5,Madagascar,3.0,2014,1363
+917,L.A. Burdick (Felchlin),U.S.A.,74.0,Peru,3.25,2012,891
+918,L.A. Burdick (Felchlin),U.S.A.,70.0,Brazil,4.0,2012,891
+919,L.A. Burdick (Felchlin),U.S.A.,68.0,Venezuela,3.75,2012,927
+920,L.A. Burdick (Felchlin),U.S.A.,74.0,Ecuador,3.75,2011,682
+921,L.A. Burdick (Felchlin),U.S.A.,75.0,Grenada,3.25,2010,576
+922,L.A. Burdick (Felchlin),U.S.A.,74.0,Dominican Republic,3.75,2010,576
+923,L.A. Burdick (Felchlin),U.S.A.,71.0,Venezuela,3.0,2010,597
+924,L.A. Burdick (Felchlin),U.S.A.,64.0,Madagascar,3.5,2009,431
+925,L.A. Burdick (Felchlin),U.S.A.,68.0,Bolivia,3.0,2009,451
+926,La Chocolaterie Nanairo,Japan,70.0,Peru,2.25,2016,1892
+927,La Chocolaterie Nanairo,Japan,70.0,Peru,2.5,2016,1892
+928,La Chocolaterie Nanairo,Japan,70.0,Peru,3.0,2016,1892
+929,La Chocolaterie Nanairo,Japan,70.0,Belize,3.0,2016,1892
+930,La Maison du Chocolat (Valrhona),France,74.0,"Africa, Carribean, C. Am.",2.75,2013,1121
+931,La Maison du Chocolat (Valrhona),France,60.0,Tobago,3.25,2013,1145
+932,La Maison du Chocolat (Valrhona),France,56.0,Ecuador,3.25,2013,1189
+933,La Maison du Chocolat (Valrhona),France,66.0,Dominican Republic,3.5,2012,891
+934,La Maison du Chocolat (Valrhona),France,68.0,Grenada,3.5,2011,741
+935,La Maison du Chocolat (Valrhona),France,68.0,Ghana,3.25,2009,346
+936,La Maison du Chocolat (Valrhona),France,69.0,Venezuela,3.5,2009,346
+937,La Maison du Chocolat (Valrhona),France,60.0,,3.0,2009,439
+938,La Maison du Chocolat (Valrhona),France,60.0,,3.75,2009,445
+939,La Maison du Chocolat (Valrhona),France,74.0,"Ven., Indonesia, Ecuad.",3.5,2008,230
+940,La Oroquidea,Peru,72.0,Peru,2.5,2011,721
+941,La Pepa de Oro,Ecuador,60.0,Ecuador,3.25,2011,713
+942,Laia aka Chat-Noir,France,75.0,Madagascar,2.75,2015,1590
+943,Laia aka Chat-Noir,France,75.0,Vietnam,2.75,2015,1590
+944,Laia aka Chat-Noir,France,75.0,Cuba,3.0,2015,1590
+945,Laia aka Chat-Noir,France,75.0,Peru,3.25,2015,1590
+946,Laia aka Chat-Noir,France,75.0,Ivory Coast,3.0,2015,1594
+947,Laia aka Chat-Noir,France,75.0,Sao Tome,3.5,2015,1638
+948,Laia aka Chat-Noir,France,75.0,Brazil,3.25,2015,1642
+949,Laia aka Chat-Noir,France,75.0,Vietnam,3.75,2015,1642
+950,Laia aka Chat-Noir,France,70.0,Cuba,2.75,2014,1434
+951,Laia aka Chat-Noir,France,68.0,Trinidad-Tobago,2.75,2014,1438
+952,Lajedo do Ouro,Brazil,70.0,Brazil,3.5,2012,927
+953,Lake Champlain (Callebaut),U.S.A.,75.0,Tanzania,2.5,2009,327
+954,L'Amourette,U.S.A.,80.0,Nicaragua,3.5,2016,1784
+955,L'Amourette,U.S.A.,75.0,Venezuela,3.0,2012,833
+957,L'Amourette,U.S.A.,72.0,"Peru, Ecuador, Venezuela",3.0,2012,853
+958,Letterpress,U.S.A.,70.0,Honduras,3.5,2017,1952
+959,Letterpress,U.S.A.,70.0,Belize,3.25,2017,1952
+960,Letterpress,U.S.A.,70.0,Liberia,3.25,2016,1728
+961,Letterpress,U.S.A.,70.0,Bolivia,3.25,2015,1562
+962,Letterpress,U.S.A.,70.0,Trinidad,3.5,2015,1562
+963,Letterpress,U.S.A.,70.0,Costa Rica,3.0,2015,1566
+964,Letterpress,U.S.A.,70.0,Domincan Republic,3.25,2015,1566
+965,Letterpress,U.S.A.,70.0,Tanzania,3.5,2015,1566
+966,Letterpress,U.S.A.,70.0,Peru,3.5,2014,1371
+967,Levy,Finland,71.0,Madagascar,3.5,2014,1231
+968,Lilla,Finland,70.0,Madagascar,3.0,2016,1856
+969,Lillie Belle,U.S.A.,65.0,Peru,3.5,2012,855
+970,Lillie Belle,U.S.A.,68.0,Bolivia,3.5,2012,903
+971,Lillie Belle,U.S.A.,68.0,Peru,3.75,2012,903
+972,Lillie Belle,U.S.A.,75.0,"Venezuela, Dom. Rep.",2.75,2012,947
+973,Lillie Belle,U.S.A.,74.0,Dominican Republic,3.0,2012,947
+974,Lillie Belle,U.S.A.,68.0,Bolivia,3.5,2012,947
+975,Lindt & Sprungli,Switzerland,85.0,,3.0,2007,157
+976,Loiza,Puerto Rico,65.0,Puerto Rico,2.5,2013,1049
+977,Lonohana,U.S.A.,70.0,Hawaii,3.75,2014,1383
+978,Lonohana,U.S.A.,65.0,Hawaii,3.25,2014,1395
+979,Lonohana,U.S.A.,75.0,Hawaii,3.75,2014,1395
+980,Lonohana,U.S.A.,71.0,Hawaii,3.0,2013,1093
+981,Lonohana,U.S.A.,72.0,Hawaii,3.0,2013,1097
+982,Lonohana,U.S.A.,70.0,Hawaii,3.5,2013,1097
+983,Love Bar,U.S.A.,75.0,Nicaragua,2.0,2015,1502
+984,Luker,Colombia,46.0,"Colombia, Ecuador",2.75,2010,552
+985,Luker,Colombia,60.0,"Colombia, Ecuador",3.0,2010,552
+986,Luker,Colombia,58.0,"Colombia, Ecuador",3.0,2010,552
+987,Luker,Colombia,65.0,Colombia,3.5,2010,552
+988,Machu Picchu Trading Co.,Peru,70.0,Peru,1.5,2011,721
+989,Machu Picchu Trading Co.,Peru,55.0,Peru,2.25,2010,552
+990,Madecasse (Cinagra),Madagascar,67.0,Madagascar,3.5,2008,284
+991,Madecasse (Cinagra),Madagascar,70.0,Madagascar,3.75,2008,284
+992,Madecasse (Cinagra),Madagascar,63.0,Madagascar,4.0,2008,284
+993,Madecasse (Cinagra),Madagascar,75.0,Madagascar,3.5,2008,288
+994,Madre,U.S.A.,73.0,Solomon Islands,3.5,2017,1940
+995,Madre,U.S.A.,70.0,Puerto Rico,2.75,2013,1085
+996,Madre,U.S.A.,70.0,Brazil,3.5,2013,1085
+997,Madre,U.S.A.,70.0,Hawaii,2.75,2013,1089
+998,Madre,U.S.A.,70.0,Mexico,2.75,2013,1089
+999,Madre,U.S.A.,70.0,Hawaii,3.25,2012,991
+1000,Madre,U.S.A.,70.0,Hawaii,3.25,2012,995
+1001,Madre,U.S.A.,70.0,Hawaii,3.5,2012,995
+1002,Madre,U.S.A.,70.0,Dominican Republic,2.5,2011,672
+1003,Madre,U.S.A.,70.0,Costa Rica,2.75,2011,693
+1004,Madre,U.S.A.,72.0,Mexico,2.75,2010,607
+1005,Maglio,Italy,75.0,Tanzania,2.0,2008,300
+1006,Maglio,Italy,70.0,Ecuador,3.0,2008,308
+1007,Maglio,Italy,70.0,Cuba,3.25,2008,308
+1008,Maglio,Italy,70.0,Dominican Republic,3.75,2008,308
+1009,Majani,Italy,70.0,Ecuador,2.0,2010,531
+1010,Malagasy (Chocolaterie Robert),Madagascar,75.0,Madagascar,2.75,2007,184
+1011,Malagasy (Chocolaterie Robert),Madagascar,73.0,Madagascar,3.5,2007,184
+1012,Malagos,Philippines,65.0,Philippines,3.5,2013,1121
+1013,Malie Kai (Guittard),U.S.A.,55.0,Hawaii,3.5,2010,502
+1014,Malie Kai (Guittard),U.S.A.,55.0,Hawaii,2.75,2009,311
+1015,Malmo,Sweden,70.0,Venezuela,3.0,2016,1856
+1016,Mana,U.S.A.,74.0,Ecuador,2.5,2015,1446
+1017,Mana,U.S.A.,74.0,Peru,2.5,2014,1219
+1018,Mana,U.S.A.,74.0,Venezuela,2.75,2014,1219
+1019,Mana,U.S.A.,74.0,Dominican Republic,3.75,2012,821
+1020,Manifesto Cacao,Colombia,70.0,Colombia,2.75,2014,1331
+1021,Manoa,U.S.A.,72.0,Papua New Guinea,3.5,2015,1522
+1022,Manoa,U.S.A.,72.0,Costa Rica,3.75,2015,1522
+1023,Manoa,U.S.A.,72.0,Hawaii,3.75,2013,1089
+1024,Manoa,U.S.A.,72.0,Liberia,3.25,2012,1003
+1025,Manoa,U.S.A.,72.0,Hawaii,2.75,2012,1007
+1026,Manoa,U.S.A.,72.0,Peru,3.0,2012,1007
+1027,Manoa,U.S.A.,72.0,Hawaii,3.25,2012,1007
+1028,Manufaktura Czekolady,Poland,70.0,Nicaragua,3.75,2016,1844
+1029,Manufaktura Czekolady,Poland,70.0,Peru,3.5,2016,1848
+1030,Manufaktura Czekolady,Poland,70.0,Venezuela,3.75,2014,1255
+1031,Manufaktura Czekolady,Poland,85.0,Colombia,3.5,2014,1279
+1032,Manufaktura Czekolady,Poland,70.0,Dominican Republic,3.25,2012,871
+1033,Manufaktura Czekolady,Poland,70.0,Ghana,3.5,2012,871
+1034,Manufaktura Czekolady,Poland,70.0,Ecuador,3.25,2012,875
+1035,Map Chocolate,U.S.A.,75.0,Vietnam,3.25,2016,1896
+1036,Map Chocolate,U.S.A.,70.0,Dominican Republic,3.5,2015,1474
+1037,Map Chocolate,U.S.A.,62.0,Peru,3.5,2015,1474
+1038,Map Chocolate,U.S.A.,70.0,Ecuador,3.5,2015,1478
+1039,Map Chocolate,U.S.A.,70.0,Trinidad,2.75,2015,1606
+1040,Map Chocolate,U.S.A.,70.0,Nicaragua,3.5,2015,1606
+1041,Map Chocolate,U.S.A.,68.0,Peru,3.5,2015,1606
+1042,Map Chocolate,U.S.A.,75.0,Colombia,2.75,2015,1610
+1043,Map Chocolate,U.S.A.,72.0,Tanzania,3.0,2015,1610
+1044,Map Chocolate,U.S.A.,78.0,Honduras,3.5,2015,1634
+1045,Marana,Peru,70.0,Peru,3.0,2016,1872
+1046,Marana,Peru,70.0,Peru,2.75,2016,1884
+1047,Marana,Peru,70.0,Peru,3.0,2016,1884
+1048,Marigold's Finest,Canada,75.0,,3.25,2016,1808
+1049,Marou,Vietnam,85.0,Vietnam,3.25,2015,1650
+1050,Marou,Vietnam,68.0,Vietnam,3.5,2015,1650
+1051,Marou,Vietnam,70.0,Vietnam,3.75,2015,1650
+1052,Marou,Vietnam,75.0,Vietnam,3.5,2013,1149
+1053,Marou,Vietnam,76.0,Vietnam,3.5,2012,845
+1054,Marou,Vietnam,72.0,Vietnam,3.5,2012,845
+1055,Marou,Vietnam,70.0,Vietnam,3.5,2012,845
+1056,Marou,Vietnam,78.0,Vietnam,3.5,2012,849
+1057,Marou,Vietnam,80.0,Vietnam,3.0,2012,895
+1058,Marou,Vietnam,74.0,Vietnam,3.5,2012,955
+1059,Mars,U.S.A.,65.0,Costa Rica,3.0,2010,537
+1060,Mars,U.S.A.,65.0,Ivory Coast,3.0,2010,544
+1061,Mars,U.S.A.,65.0,Nigeria,3.25,2010,544
+1062,Mars,U.S.A.,65.0,Ghana,3.5,2010,544
+1063,Marsatta,U.S.A.,74.0,Dominican Republic,2.25,2013,1189
+1064,Marsatta,U.S.A.,89.0,Dominican Republic,2.5,2013,1189
+1065,Martin Mayer,Austria,76.0,Bolivia,2.75,2016,1836
+1066,Martin Mayer,Austria,82.0,Haiti,3.0,2016,1836
+1067,Martin Mayer,Austria,74.0,Colombia,3.25,2016,1836
+1068,Mast Brothers,U.S.A.,76.0,Guatemala,3.0,2015,1450
+1069,Mast Brothers,U.S.A.,74.0,Tanzania,3.25,2015,1450
+1070,Mast Brothers,U.S.A.,75.0,"Peru, Belize",3.75,2014,1359
+1071,Mast Brothers,U.S.A.,73.0,"Peru, Mad., Dom. Rep.",3.5,2012,959
+1072,Mast Brothers,U.S.A.,72.0,,2.5,2012,999
+1073,Mast Brothers,U.S.A.,73.0,Venezuela,2.75,2012,999
+1074,Mast Brothers,U.S.A.,72.0,,3.5,2011,672
+1075,Mast Brothers,U.S.A.,76.0,Venezuela,3.0,2011,701
+1076,Mast Brothers,U.S.A.,70.0,Venezuela,3.0,2011,709
+1077,Mast Brothers,U.S.A.,81.0,Venezuela,2.75,2011,713
+1078,Mast Brothers,U.S.A.,70.0,Belize,3.5,2011,773
+1079,Mast Brothers,U.S.A.,71.0,Papua New Guinea,2.75,2011,777
+1080,Mast Brothers,U.S.A.,75.0,Peru,3.0,2011,777
+1081,Mast Brothers,U.S.A.,73.0,Dominican Republic,3.25,2011,777
+1082,Mast Brothers,U.S.A.,74.0,Dominican Republic,3.75,2011,777
+1083,Mast Brothers,U.S.A.,81.0,Venezuela,2.75,2010,572
+1084,Mast Brothers,U.S.A.,75.0,Venezuela,3.0,2010,572
+1085,Mast Brothers,U.S.A.,70.0,Dominican Republic,3.25,2010,572
+1086,Matale,Australia,72.0,Vanuatu,3.5,2013,1177
+1087,Matale,Australia,68.0,Madagascar,4.0,2013,1177
+1088,Matale,Australia,74.0,Papua New Guinea,4.0,2013,1177
+1089,Matale,Australia,70.0,"PNG, Vanuatu, Mad",3.75,2013,1181
+1090,Maverick,U.S.A.,70.0,Belize,3.25,2014,1367
+1091,Maverick,U.S.A.,70.0,Dominican Republic,3.25,2014,1367
+1092,Maverick,U.S.A.,82.0,Peru,3.25,2014,1430
+1093,Maverick,U.S.A.,63.0,Peru,3.5,2014,1430
+1094,Mayacama,U.S.A.,72.0,Domincan Republic,3.0,2016,1728
+1095,Meadowlands,U.S.A.,70.0,Bolivia,2.5,2014,1287
+1096,Meadowlands,U.S.A.,70.0,Venezuela,2.75,2014,1287
+1097,Meadowlands,U.S.A.,70.0,Belize,3.0,2014,1287
+1098,Meadowlands,U.S.A.,70.0,Nicaragua,3.0,2014,1291
+1099,Meadowlands,U.S.A.,70.0,Dominican Republic,3.5,2014,1291
+1100,Menakao (aka Cinagra),Madagascar,80.0,Madagascar,2.5,2012,837
+1101,Menakao (aka Cinagra),Madagascar,72.0,Madagascar,2.5,2012,841
+1102,Mesocacao,Honduras,80.0,El Salvador,2.75,2015,1494
+1103,Mesocacao,Honduras,70.0,El Salvador,3.0,2015,1494
+1104,Mesocacao,Honduras,80.0,Honduras,3.25,2014,1347
+1105,Mesocacao,Honduras,70.0,Honduras,3.5,2014,1347
+1106,Mesocacao,Honduras,70.0,Nicaragua,3.25,2014,1351
+1107,Mesocacao,Honduras,80.0,Nicaragua,3.5,2014,1351
+1108,Metiisto,Sweden,70.0,Brazil,3.0,2014,1267
+1109,Metiisto,Sweden,72.0,Madagascar,3.5,2014,1267
+1110,Metropolitan,Amsterdam,70.0,South America,3.5,2015,1688
+1111,Michel Cluizel,France,66.0,Mexico,3.75,2012,963
+1112,Michel Cluizel,France,66.0,Venezuela,3.5,2007,117
+1113,Michel Cluizel,France,67.0,Sao Tome,3.5,2007,135
+1114,Michel Cluizel,France,60.0,,2.0,2006,24
+1115,Michel Cluizel,France,85.0,,2.0,2006,24
+1116,Michel Cluizel,France,70.0,Sao Tome,3.0,2006,24
+1117,Michel Cluizel,France,67.0,Dominican Republic,4.0,2006,24
+1118,Michel Cluizel,France,65.0,Madagascar,4.0,2006,24
+1119,Michel Cluizel,France,64.0,Papua New Guinea,4.0,2006,24
+1120,Michel Cluizel,France,99.0,,2.0,2006,81
+1121,Middlebury,U.S.A.,80.0,Belize,3.5,2015,1490
+1122,Middlebury,U.S.A.,70.0,Trinidad,3.5,2015,1490
+1123,Middlebury,U.S.A.,75.0,Dominican Republic,3.75,2015,1490
+1124,Middlebury,U.S.A.,75.0,Venezuela,3.75,2015,1490
+1125,Middlebury,U.S.A.,75.0,Tanzania,3.25,2015,1538
+1126,Middlebury,U.S.A.,70.0,Nicaragua,3.5,2015,1538
+1127,Middlebury,U.S.A.,75.0,Dominican Republic,2.5,2013,1117
+1128,Middlebury,U.S.A.,80.0,Belize,3.25,2013,1117
+1129,Middlebury,U.S.A.,65.0,,1.5,2012,887
+1130,Middlebury,U.S.A.,75.0,Bolivia,2.0,2012,887
+1131,Middlebury,U.S.A.,70.0,Indonesia,2.5,2012,887
+1132,Millcreek Cacao Roasters,U.S.A.,70.0,Ecuador,2.5,2013,1073
+1133,Millcreek Cacao Roasters,U.S.A.,70.0,Ecuador,3.5,2012,825
+1134,Mindo,U.S.A.,67.0,Ecuador,2.75,2010,607
+1135,Mindo,U.S.A.,77.0,Ecuador,2.75,2010,607
+1136,Minimal,Japan,70.0,Haiti,3.5,2016,1920
+1137,Mission,Brazil,75.0,Brazil,3.75,2016,1880
+1138,Mission,Brazil,70.0,Brazil,3.5,2015,1626
+1139,Mita,Colombia,65.0,Colombia,2.5,2012,955
+1140,Moho,U.S.A.,73.0,Belize,3.25,2013,1026
+1141,Moho,U.S.A.,72.0,Belize,3.0,2013,1030
+1142,Moho,U.S.A.,67.0,Belize,2.75,2010,607
+1143,Molucca,U.S.A.,70.0,Domincan Republic,3.0,2015,1614
+1144,Molucca,U.S.A.,70.0,Indonesia,2.75,2015,1618
+1145,Molucca,U.S.A.,70.0,Peru,3.25,2015,1618
+1146,Momotombo,Nicaragua,70.0,Nicaragua,2.75,2011,661
+1148,Momotombo,Nicaragua,70.0,Nicaragua,3.25,2011,772
+1149,Monarque,Canada,72.0,Dominican Republic,3.5,2016,1812
+1150,Monsieur Truffe,Australia,70.0,Papua New Guinea,3.25,2014,1391
+1151,Montecristi,Ecuador,70.0,Ecuador,3.25,2015,1654
+1152,Montecristi,Ecuador,63.0,Ecuador,3.5,2015,1654
+1153,Montecristi,Ecuador,85.0,Ecuador,3.5,2015,1658
+1154,Muchomas (Mesocacao),U.S.A.,70.0,Nicaragua,3.5,2015,1462
+1155,Muchomas (Mesocacao),U.S.A.,80.0,Nicaragua,3.5,2015,1462
+1156,Mutari,U.S.A.,68.0,Tanzania,2.75,2016,1896
+1157,Mutari,U.S.A.,71.0,Domincan Republic,2.75,2016,1896
+1158,Mutari,U.S.A.,68.0,Madagascar,2.75,2016,1900
+1159,Mutari,U.S.A.,80.0,Vietnam,3.0,2016,1900
+1160,Nahua,Costa Rica,58.0,Costa Rica,2.5,2013,1049
+1161,Nahua,Costa Rica,70.0,Costa Rica,3.0,2013,1049
+1162,Naive,Lithuania,70.0,"Trinidad, Tobago",3.75,2013,1046
+1163,Naive,Lithuania,78.0,Peru,3.75,2013,1133
+1164,Naive,Lithuania,71.0,Grenada,2.5,2012,867
+1165,Na�ve,Lithuania,70.0,Nicaragua,3.25,2014,1379
+1166,Na�ve,Lithuania,75.0,Venezuela,2.75,2014,1399
+1167,Na�ve,Lithuania,70.0,Venezuela,3.0,2014,1399
+1168,Nanea,U.S.A.,85.0,Hawaii,3.5,2013,1007
+1169,Nathan Miller,U.S.A.,72.0,Peru,2.25,2014,1403
+1170,Nathan Miller,U.S.A.,70.0,Dominican Republic,2.5,2014,1403
+1171,Nathan Miller,U.S.A.,73.5,Madagascar,2.5,2014,1403
+1172,Nathan Miller,U.S.A.,70.0,Ghana,3.5,2014,1403
+1173,Neuhaus (Callebaut),Belgium,70.0,Papua New Guinea,2.5,2010,531
+1174,Neuhaus (Callebaut),Belgium,67.0,Trinidad,3.75,2008,230
+1175,Neuhaus (Callebaut),Belgium,73.0,,1.0,2007,135
+1176,Neuhaus (Callebaut),Belgium,73.0,West Africa,2.0,2006,15
+1177,Neuhaus (Callebaut),Belgium,75.0,Sao Tome,2.75,2006,15
+1178,Neuhaus (Callebaut),Belgium,71.0,Venezuela,3.0,2006,24
+1179,Nibble,U.S.A.,72.0,Venezuela,2.25,2015,1526
+1180,Nibble,U.S.A.,72.0,Dominican Republic,2.75,2015,1526
+1181,Nibble,U.S.A.,72.0,Madagascar,3.0,2015,1526
+1182,Nibble,U.S.A.,72.0,Peru,3.0,2015,1526
+1183,Night Owl,U.S.A.,75.0,Peru,2.75,2013,1022
+1184,Night Owl,U.S.A.,75.0,Ecuador,3.5,2013,1022
+1185,Noble Bean aka Jerjobo,U.S.A.,75.0,Ghana,3.0,2014,1295
+1186,Noble Bean aka Jerjobo,U.S.A.,75.0,Belize,3.0,2014,1299
+1187,Noble Bean aka Jerjobo,U.S.A.,75.0,Peru,3.25,2014,1299
+1188,Noir d' Ebine,U.S.A.,70.0,Venezuela,3.0,2012,837
+1189,Noir d' Ebine,U.S.A.,70.0,Ecuador,3.0,2012,841
+1190,Nova Monda,Nicaragua,70.0,Nicaragua,3.0,2012,931
+1191,Nova Monda,Niacragua,75.0,Nicaragua,2.75,2012,935
+1192,Nova Monda,Nicaragua,80.0,Ecuador,3.25,2012,935
+1193,Nuance,U.S.A.,70.0,Ghana,3.75,2015,1454
+1194,Nuance,U.S.A.,70.0,Ecuador,2.75,2015,1458
+1195,Nuance,U.S.A.,70.0,Venezuela,3.0,2015,1458
+1196,Nuance,U.S.A.,70.0,Madagascar,3.5,2015,1458
+1197,Nuance,U.S.A.,70.0,Dominican Republic,3.75,2015,1470
+1198,Nugali,Brazil,70.0,Brazil,3.5,2016,1876
+1199,Oakland Chocolate Co.,U.S.A.,70.0,Jamaica,2.5,2010,478
+1200,Obolo,Chile,70.0,Peru,3.75,2015,1638
+1202,Ocelot,Scotland,70.0,Congo,3.75,2015,1558
+1203,Ocelot,Scotland,75.0,Peru,4.0,2015,1558
+1204,Ocho,New Zealand,100.0,Samoa,2.75,2016,1760
+1205,Ocho,New Zealand,70.0,Samoa,3.5,2016,1760
+1206,Ocho,New Zealand,66.0,Papua New Guinea,2.75,2014,1411
+1207,Ocho,New Zealand,70.0,Papua New Guinea,3.0,2014,1411
+1208,Ocho,New Zealand,88.0,Papua New Guinea,3.25,2014,1411
+1209,Ocho,New Zealand,74.0,Papua New Guinea,3.5,2014,1411
+1210,Ohiyo,U.S.A.,70.0,Trinidad,2.75,2015,1594
+1211,Ohiyo,U.S.A.,70.0,Tanzania,3.0,2015,1598
+1212,Oialla by Bojessen (Malmo),Germany,70.0,Bolivia,3.5,2011,761
+1213,Olive and Sinclair,U.S.A.,72.0,Dominican Republic,3.0,2010,486
+1214,Olive and Sinclair,U.S.A.,72.0,Ghana,3.0,2010,486
+1215,Olive and Sinclair,U.S.A.,67.0,"Ghana, Domin. Rep",2.75,2009,457
+1216,Olive and Sinclair,U.S.A.,75.0,"Ghana, Domin. Rep",3.0,2009,457
+1217,Olivia,Canada,76.0,Carribean,2.0,2011,688
+1218,Olivia,Canada,76.0,Carribean,2.75,2011,688
+1219,Olivia,Canada,85.0,Carribean,2.75,2011,688
+1220,Olivia,Canada,85.0,Carribean,3.0,2011,688
+1221,Omanhene,Ghana,80.0,Ghana,2.75,2011,693
+1222,Omnom,Iceland,70.0,Tanzania,3.75,2016,1816
+1223,Omnom,Iceland,70.0,Papua New Guinea,3.0,2014,1247
+1224,Omnom,Iceland,66.0,Madagascar,3.5,2014,1247
+1225,organicfair,Canada,74.0,Belize,2.75,2013,1161
+1226,organicfair,Canada,72.0,Dominican Republic,2.75,2013,1165
+1227,organicfair,Canada,72.0,Nicaragua,2.75,2013,1165
+1228,organicfair,Canada,72.0,Dominican Republic,3.0,2013,1165
+1229,organicfair,Canada,72.0,Ecuador,3.0,2013,1165
+1230,Original Beans (Felchlin),Switzerland,68.0,Papua New Guinea,2.75,2014,1438
+1231,Original Beans (Felchlin),Switzerland,80.0,,3.25,2014,1442
+1232,Original Beans (Felchlin),Switzerland,66.0,Bolivia,3.75,2011,733
+1233,Original Beans (Felchlin),Switzerland,70.0,Congo,3.0,2009,331
+1234,Original Beans (Felchlin),Switzerland,75.0,Peru,3.0,2009,341
+1235,Original Beans (Felchlin),Switzerland,68.0,Bolivia,3.25,2009,341
+1236,Original Hawaiin Chocolate Factory,U.S.A.,60.0,Hawaii,3.0,2009,316
+1237,Original Hawaiin Chocolate Factory,U.S.A.,60.0,Hawaii,3.0,2006,24
+1238,Orquidea,Peru,65.0,Peru,3.0,2012,859
+1239,Orquidea,Peru,72.0,Peru,3.0,2012,859
+1240,Pacari,Ecuador,70.0,Colombia,4.0,2016,1848
+1241,Pacari,Ecuador,70.0,Ecuador,3.25,2014,1415
+1242,Pacari,Ecuador,70.0,Ecuador,3.5,2014,1415
+1243,Pacari,Ecuador,70.0,Ecuador,3.75,2014,1415
+1244,Pacari,Ecuador,70.0,Ecuador,4.0,2014,1415
+1245,Pacari,Ecuador,85.0,Ecuador,2.75,2012,817
+1246,Pacari,Ecuador,70.0,Peru,4.0,2012,863
+1247,Pacari,Ecuador,70.0,Ecuador,3.5,2011,721
+1248,Pacari,Ecuador,60.0,Ecuador,2.5,2008,224
+1249,Pacari,Ecuador,65.0,Ecuador,2.75,2008,224
+1250,Pacari,Ecuador,72.0,Ecuador,3.0,2008,224
+1251,Pacari,Ecuador,100.0,Ecuador,2.0,2008,266
+1252,Pacari,Ecuador,70.0,Ecuador,3.5,2008,266
+1253,Palette de Bine,Canada,70.0,Guatemala,2.75,2016,1720
+1254,Palette de Bine,Canada,72.0,Belize,3.0,2016,1720
+1255,Palette de Bine,Canada,70.0,Bolivia,3.25,2015,1570
+1256,Palette de Bine,Canada,70.0,Trinidad,3.25,2015,1570
+1257,Palette de Bine,Canada,72.0,Tanzania,3.5,2015,1574
+1258,Palette de Bine,Canada,72.0,Vietnam,3.75,2015,1574
+1259,Palette de Bine,Canada,72.0,Bolivia,2.75,2014,1239
+1260,Palette de Bine,Canada,78.0,Madagascar,3.75,2014,1239
+1261,Palette de Bine,Canada,75.0,Ecuador,2.75,2014,1303
+1262,Palette de Bine,Canada,75.0,"Trinidad, Ecuador",3.5,2014,1399
+1263,Palette de Bine,Canada,70.0,Trinidad,3.75,2014,1399
+1264,Pangea,Spain,76.0,Fiji,3.0,2016,1860
+1265,Park 75,U.S.A.,65.0,South America,3.5,2014,1363
+1266,Parliament,U.S.A.,70.0,Tanzania,3.25,2016,1856
+1267,Parliament,U.S.A.,70.0,Guatemala,3.5,2015,1542
+1268,Parliament,U.S.A.,70.0,Bolivia,3.0,2014,1251
+1269,Parliament,U.S.A.,70.0,Dominican Republic,3.5,2014,1255
+1270,Pascha,Peru,55.0,Peru,2.5,2013,1137
+1271,Pascha,Peru,70.0,Peru,2.75,2013,1137
+1272,Patric,U.S.A.,70.0,,3.75,2011,636
+1273,Patric,U.S.A.,75.0,Madagascar,4.0,2009,331
+1274,Patric,U.S.A.,67.0,Madagascar,3.5,2009,439
+1275,Patric,U.S.A.,70.0,Venezuela,3.5,2009,439
+1276,Patric,U.S.A.,70.0,Madagascar,4.0,2007,196
+1277,Patric,U.S.A.,67.0,Peru,4.0,2013,1034
+1278,Paul Young,U.K.,73.0,Madagascar,2.25,2014,1271
+1279,Paul Young,U.K.,64.0,Madagascar,2.75,2014,1271
+1280,Peppalo,U.S.A.,82.0,Dominican Republic,3.0,2015,1454
+1281,Pierre Marcolini,Belgium,70.0,Cameroon,3.25,2015,1658
+1282,Pierre Marcolini,Belgium,75.0,Venezuela,3.0,2010,478
+1283,Pierre Marcolini,Belgium,75.0,Trinidad,3.25,2010,478
+1284,Pierre Marcolini,Belgium,78.0,Cuba,3.75,2010,516
+1285,Pierre Marcolini,Belgium,85.0,Peru,3.0,2010,531
+1286,Pierre Marcolini,Belgium,72.0,Brazil,3.0,2009,414
+1287,Pierre Marcolini,Belgium,72.0,Mexico,3.0,2009,445
+1288,Pierre Marcolini,Belgium,70.0,"Venezuela, Java",4.0,2007,111
+1289,Pierre Marcolini,Belgium,72.0,Ecuador,3.75,2007,129
+1290,Pierre Marcolini,Belgium,72.0,Madagascar,4.0,2007,141
+1291,Pierre Marcolini,Belgium,85.0,Venezuela/ Ghana,3.5,2007,166
+1292,Pierre Marcolini,Belgium,72.0,Mexico,4.0,2006,81
+1293,Pierre Marcolini,Belgium,72.0,Indonesia,3.0,2006,93
+1294,Pierre Marcolini,Belgium,72.0,Venezuela,4.0,2006,93
+1295,Pinellas,U.S.A.,80.0,Honduras,2.5,2016,1772
+1296,Pitch Dark,U.S.A.,62.0,Nicaragua,2.5,2015,1506
+1297,Pitch Dark,U.S.A.,80.0,Nicaragua,2.75,2015,1506
+1298,Pitch Dark,U.S.A.,80.0,Nicaragua,2.75,2015,1510
+1300,Pitch Dark,U.S.A.,80.0,Nicaragua,3.25,2015,1510
+1301,Pitch Dark,U.S.A.,73.0,Madagascar,3.25,2014,1311
+1302,Pitch Dark,U.S.A.,73.0,Fiji,2.5,2014,1315
+1303,Pitch Dark,U.S.A.,73.0,Ecuador,3.25,2014,1319
+1304,Pitch Dark,U.S.A.,73.0,Ecuador,3.5,2014,1319
+1305,Pomm (aka Dead Dog),U.S.A.,76.0,Dominican Republic,2.5,2012,829
+1306,Pomm (aka Dead Dog),U.S.A.,82.0,Peru,2.75,2012,829
+1307,Potomac,U.S.A.,70.0,Domincan Republic,3.75,2016,1820
+1308,Potomac,U.S.A.,70.0,Venezuela,3.75,2014,1387
+1309,Potomac,U.S.A.,70.0,Costa Rica,3.5,2011,647
+1310,Potomac,U.S.A.,70.0,Costa Rica,3.0,2011,654
+1311,Potomac,U.S.A.,70.0,Peru,2.75,2011,789
+1312,Potomac,U.S.A.,70.0,Brazil,3.5,2011,789
+1313,Potomac,U.S.A.,82.0,Costa Rica,3.75,2010,607
+1314,Pralus,France,75.0,Peru,3.25,2015,1446
+1315,Pralus,France,75.0,Venezuela,3.25,2011,717
+1316,Pralus,France,75.0,Venezuela,3.5,2010,486
+1317,Pralus,France,75.0,Venezuela,2.0,2009,451
+1318,Pralus,France,75.0,Papua New Guinea,3.0,2008,199
+1319,Pralus,France,100.0,Madagascar,3.0,2008,202
+1320,Pralus,France,75.0,Dominican Republic,2.0,2008,280
+1321,Pralus,France,75.0,Brazil,3.5,2008,280
+1322,Pralus,France,75.0,Sao Tome,4.0,2007,162
+1323,Pralus,France,75.0,Brazil,3.0,2006,105
+1324,Pralus,France,75.0,Tanzania,3.5,2006,105
+1325,Pralus,France,75.0,Sao Tome & Principe,3.5,2006,5
+1326,Pralus,France,75.0,Trinidad,3.5,2006,5
+1327,Pralus,France,75.0,Madagascar,3.75,2006,5
+1328,Pralus,France,75.0,Indonesia,3.5,2006,32
+1329,Pralus,France,75.0,Venezuela,3.5,2006,32
+1330,Pralus,France,75.0,Jamaica,4.0,2006,32
+1331,Pralus,France,75.0,Ecuador,3.0,2006,40
+1332,Pralus,France,75.0,Vanuatu,3.0,2006,40
+1333,Pralus,France,75.0,Ghana,3.25,2006,40
+1334,Pralus,France,75.0,Colombia,3.5,2006,40
+1335,Pralus,France,80.0,Ecuador,4.0,2006,93
+1336,Pralus,France,75.0,Cuba,3.0,2006,99
+1337,Pralus,France,75.0,"Venezuela, Ghana",3.0,2006,99
+1338,Pralus,France,75.0,"Indonesia, Ghana",3.5,2006,99
+1339,Pump Street Bakery,U.K.,77.0,Ecuador,3.5,2016,1872
+1340,Pump Street Bakery,U.K.,70.0,Grenada,3.5,2015,1502
+1341,Pump Street Bakery,U.K.,74.0,Madagascar,3.5,2015,1530
+1342,Pump Street Bakery,U.K.,80.0,Honduras,2.75,2015,1688
+1343,Pump Street Bakery,U.K.,75.0,Venezuela,2.75,2014,1223
+1344,Pump Street Bakery,U.K.,75.0,Ecuador,3.0,2014,1223
+1345,Pump Street Bakery,U.K.,72.0,Madagascar,3.25,2014,1223
+1346,Pump Street Bakery,U.K.,85.0,Ecuador,2.75,2014,1227
+1347,Pura Delizia,Italy,73.0,Venezuela,2.75,2012,931
+1348,Q Chocolate,Brazil,75.0,Brazil,3.25,2013,1057
+1349,Q Chocolate,Brazil,85.0,Brazil,3.5,2013,1057
+1350,Q Chocolate,Brazil,55.0,Brazil,2.75,2013,1069
+1351,Q Chocolate,Brazil,80.0,Brazil,3.25,2013,1069
+1352,Q Chocolate,Brazil,60.0,Brazil,3.0,2012,935
+1353,Q Chocolate,Brazil,65.0,Brazil,3.25,2012,935
+1354,Quetzalli (Wolter),Mexico,70.0,Mexico,2.75,2016,1796
+1355,Quetzalli (Wolter),Mexico,74.0,Mexico,3.0,2016,1800
+1356,Raaka,U.S.A.,70.0,"Peru(SMartin,Pangoa,nacional)",3.0,2016,1788
+1357,Raaka,U.S.A.,75.0,Congo,2.75,2015,1708
+1358,Raaka,U.S.A.,75.0,Madagascar,3.25,2012,959
+1359,Raaka,U.S.A.,85.0,Dominican Republic,3.5,2011,785
+1360,Rain Republic,Guatemala,70.0,Guatemala,2.75,2010,470
+1361,Rancho San Jacinto,Eucador,75.0,Ecuador,3.0,2010,565
+1362,Ranger,U.S.A.,70.0,Peru,2.5,2015,1558
+1363,Ranger,U.S.A.,80.0,Peru,3.25,2015,1562
+1364,Ranger,U.S.A.,73.0,Peru,3.5,2015,1562
+1365,Raoul Boulanger,France,75.0,Peru,3.25,2016,1872
+1366,Raw Cocoa,Poland,70.0,,2.5,2012,867
+1367,Republica del Cacao (aka Confecta),Ecuador,75.0,Ecuador,3.25,2010,494
+1368,Republica del Cacao (aka Confecta),Ecuador,75.0,Ecuador,2.5,2009,439
+1369,Republica del Cacao (aka Confecta),Ecuador,75.0,Ecuador,3.0,2007,147
+1370,Republica del Cacao (aka Confecta),Ecuador,67.0,Ecuador,3.5,2007,147
+1371,Republica del Cacao (aka Confecta),Ecuador,75.0,Ecuador,3.75,2007,170
+1372,Ritual,U.S.A.,75.0,Ecuador,3.75,2016,1860
+1373,Ritual,U.S.A.,85.0,Ecuador,3.5,2015,1466
+1374,Ritual,U.S.A.,70.0,,3.5,2015,1466
+1375,Ritual,U.S.A.,75.0,Belize,3.75,2013,1089
+1376,Ritual,U.S.A.,75.0,Peru,3.0,2013,1181
+1377,Ritual,U.S.A.,75.0,Madagascar,4.0,2012,891
+1378,Ritual,U.S.A.,75.0,Ecuador,3.25,2012,967
+1379,Ritual,U.S.A.,75.0,Trinidad,3.5,2012,979
+1380,Ritual,U.S.A.,75.0,Costa Rica,3.5,2011,745
+1381,Roasting Masters,South Korea,70.0,Costa Rica,3.25,2016,1844
+1384,Robert (aka Chocolaterie Robert),Madagascar,75.0,Madagascar,3.25,2013,1061
+1385,Robert (aka Chocolaterie Robert),Madagascar,68.0,Madagascar,3.25,2013,1061
+1386,Rococo (Grenada Chocolate Co.),U.K.,66.0,Grenada,3.5,2012,923
+1387,Rogue,U.S.A.,75.0,Honduras,3.75,2016,1748
+1388,Rogue,U.S.A.,70.0,Venezuela,3.75,2015,1446
+1389,Rogue,U.S.A.,75.0,Bolivia,3.25,2015,1566
+1390,Rogue,U.S.A.,80.0,Venezuela,3.75,2014,1209
+1391,Rogue,U.S.A.,70.0,Madagascar,3.5,2013,1038
+1392,Rogue,U.S.A.,70.0,Dominican Republic,3.5,2013,1081
+1393,Rogue,U.S.A.,75.0,Bolivia,4.0,2013,1081
+1394,Rogue,U.S.A.,75.0,Jamaica,3.75,2013,1193
+1395,Rogue,U.S.A.,75.0,Ecuador,3.75,2012,979
+1396,Rogue,U.S.A.,75.0,Bolivia,3.0,2011,793
+1397,Rogue,U.S.A.,75.0,Peru,3.75,2010,565
+1398,Rogue,U.S.A.,70.0,Venezuela,3.5,2009,327
+1399,Rogue,U.S.A.,70.0,Dominican Republic,2.75,2008,213
+1400,Rogue,U.S.A.,70.0,Jamaica,2.75,2008,213
+1401,Rogue,U.S.A.,70.0,Madagascar,2.75,2008,213
+1402,Rogue,U.S.A.,70.0,Trinidad,3.0,2008,213
+1403,Rozsavolgyi,Hungary,84.0,Venezuela,2.5,2012,809
+1404,Rozsavolgyi,Hungary,76.0,Venezuela,2.25,2012,871
+1405,Rozsavolgyi,Hungary,72.0,Madagascar,2.5,2012,871
+1406,Rozsavolgyi,Hungary,73.0,Venezuela,3.5,2011,713
+1407,Rozsavolgyi,Hungary,71.0,Venezuela,2.5,2011,717
+1408,Rozsavolgyi,Hungary,70.0,Venezuela,3.5,2011,717
+1409,Rozsavolgyi,Hungary,77.0,Principe,2.75,2011,765
+1410,S.A.I.D.,Italy,64.0,Madagascar,3.5,2010,607
+1411,S.A.I.D.,Italy,100.0,,1.5,2010,615
+1412,S.A.I.D.,Italy,70.0,Dominican Republic,3.0,2010,615
+1413,S.A.I.D.,Italy,72.0,Carribean,3.5,2010,615
+1414,S.A.I.D.,Italy,72.0,,3.5,2010,615
+1415,Sacred,U.S.A.,83.0,Central and S. America,2.75,2012,813
+1416,Sacred,U.S.A.,69.0,Central and S. America,3.25,2012,813
+1417,Salgado,Argentina,70.0,Brazil,3.5,2008,288
+1418,Salgado,Argentina,70.0,Ecuador,3.5,2008,288
+1419,Salgado,Argentina,70.0,Venezuela,3.5,2008,288
+1420,Salgado,Argentina,70.0,Ecuador,3.5,2008,292
+1421,Santander (Compania Nacional),Colombia,75.0,Colombia,2.75,2009,404
+1422,Santander (Compania Nacional),Colombia,70.0,Colombia,3.0,2009,414
+1423,Santander (Compania Nacional),Colombia,53.0,Colombia,2.0,2006,32
+1424,Santander (Compania Nacional),Colombia,65.0,Colombia,3.0,2006,32
+1425,Santander (Compania Nacional),Colombia,70.0,Colombia,4.0,2006,32
+1426,Santome,France,70.0,Sao Tome,2.75,2011,761
+1427,Scharffen Berger,U.S.A.,78.0,Peru,4.0,2012,959
+1428,Scharffen Berger,U.S.A.,68.0,Papua New Guinea,3.75,2011,781
+1429,Scharffen Berger,U.S.A.,68.0,Grenada,3.5,2010,464
+1430,Scharffen Berger,U.S.A.,65.0,Madagascar,3.75,2010,464
+1431,Scharffen Berger,U.S.A.,68.0,Brazil,3.75,2009,336
+1432,Scharffen Berger,U.S.A.,65.0,Ghana,4.0,2009,336
+1433,Scharffen Berger,U.S.A.,72.0,Vietnam,3.75,2009,445
+1434,Scharffen Berger,U.S.A.,72.0,"Ven., Trinidad, Mad.",3.0,2008,227
+1435,Scharffen Berger,U.S.A.,72.0,Carribean(DR/Jam/Tri),3.0,2007,117
+1436,Scharffen Berger,U.S.A.,62.0,,3.0,2007,135
+1437,Scharffen Berger,U.S.A.,75.0,Venezuela,3.75,2007,135
+1438,Scharffen Berger,U.S.A.,75.0,Carribean,3.0,2007,188
+1439,Scharffen Berger,U.S.A.,82.0,,2.0,2006,15
+1440,Scharffen Berger,U.S.A.,70.0,,3.5,2006,15
+1441,Scharffen Berger,U.S.A.,68.0,Ghana & Madagascar,2.0,2006,40
+1442,Scharffen Berger,U.S.A.,70.0,Jamaica,2.0,2006,56
+1443,Scharffen Berger,U.S.A.,62.0,,3.0,2006,56
+1444,Seaforth,U.K.,70.0,Domincan Republic,2.75,2015,1658
+1445,Seaforth,U.K.,70.0,Grenada,2.75,2015,1658
+1446,Shark Mountain,U.S.A.,72.0,Jamaica,3.25,2015,1450
+1447,Shark Mountain,U.S.A.,73.0,Papua New Guinea,3.5,2015,1450
+1448,Shark Mountain,U.S.A.,77.0,Venezuela,2.75,2015,1466
+1449,Shark Mountain,U.S.A.,74.0,Dominican Republic,3.5,2015,1466
+1450,Shark Mountain,U.S.A.,75.0,Ecuador,3.0,2014,1335
+1451,Shark Mountain,U.S.A.,72.0,Belize,3.25,2014,1335
+1452,Shark's,U.S.A.,73.0,Hawaii,2.0,2011,713
+1453,Shark's,U.S.A.,73.0,Hawaii,2.5,2011,721
+1454,Shattel,Peru,70.0,Peru,3.25,2016,1884
+1455,Shattell,Peru,75.0,Peru,3.5,2011,757
+1456,Sibu,Costa Rica,82.0,Costa Rica,3.25,2015,1586
+1457,Sibu,Costa Rica,70.0,Costa Rica,3.5,2015,1586
+1458,Sibu Sura,U.S.A.,70.0,Peru,2.5,2012,911
+1459,Silvio Bessone,Italy,67.0,Belize,3.0,2011,717
+1460,Silvio Bessone,Italy,65.0,Sao Tome,3.25,2011,725
+1461,Silvio Bessone,Italy,60.0,Brazil,3.25,2011,729
+1462,Silvio Bessone,Italy,68.0,Colombia,3.0,2011,741
+1463,Sirene,Canada,73.0,Bolivia,3.5,2016,1788
+1464,Sirene,Canada,73.0,Tanzania,3.5,2016,1856
+1465,Sirene,Canada,73.0,Ecuador,3.75,2016,1860
+1466,Sirene,Canada,100.0,Madagascar,3.0,2015,1502
+1467,Sirene,Canada,100.0,Ecuador,3.0,2015,1506
+1468,Sirene,Canada,73.0,Guatemala,3.0,2015,1614
+1469,Sirene,Canada,73.0,Guatemala,3.25,2015,1614
+1470,Sirene,Canada,73.0,Haiti,3.25,2015,1650
+1471,Sirene,Canada,67.0,Madagascar,3.75,2014,1339
+1472,Sirene,Canada,73.0,Madagascar,3.75,2014,1339
+1473,Sirene,Canada,73.0,Ecuador,3.75,2014,1343
+1474,Sjolinds,U.S.A.,70.0,Ghana,2.75,2015,1454
+1475,Sjolinds,U.S.A.,72.0,Nicaragua,3.0,2015,1462
+1476,"Smooth Chocolator, The",Australia,70.0,Dominican Republic,3.5,2017,1940
+1477,"Smooth Chocolator, The",Australia,70.0,Venezuela,3.75,2016,1740
+1478,"Smooth Chocolator, The",Australia,70.0,Ecuador,4.0,2016,1740
+1479,"Smooth Chocolator, The",Australia,70.0,Belize,3.75,2016,1756
+1480,"Smooth Chocolator, The",Australia,70.0,Vietnam,3.0,2016,1864
+1481,"Smooth Chocolator, The",Australia,67.0,Australia,3.75,2016,1864
+1482,"Smooth Chocolator, The",Australia,70.0,Guatemala,3.25,2016,1908
+1483,"Smooth Chocolator, The",Australia,65.0,Madagascar,3.25,2015,1618
+1484,"Smooth Chocolator, The",Australia,70.0,Madagascar,3.5,2015,1622
+1485,"Smooth Chocolator, The",Australia,67.0,Tanzania,3.75,2015,1622
+1486,"Smooth Chocolator, The",Australia,70.0,Trinidad,3.75,2015,1622
+1487,"Smooth Chocolator, The",Australia,72.0,Ecuador,4.0,2015,1622
+1488,"Smooth Chocolator, The",Australia,72.0,Bolivia,2.75,2015,1626
+1489,"Smooth Chocolator, The",Australia,65.0,Papua New Guinea,3.5,2015,1662
+1490,"Smooth Chocolator, The",Australia,67.0,Peru,3.0,2015,1666
+1491,"Smooth Chocolator, The",Australia,70.0,Venezuela,3.75,2015,1666
+1492,Snake & Butterfly,U.S.A.,67.0,Ghana,1.5,2011,693
+1493,Snake & Butterfly,U.S.A.,68.0,Madagascar,3.0,2010,502
+1494,Snake & Butterfly,U.S.A.,68.0,Ecuador,3.25,2010,502
+1495,Sol Cacao,U.S.A.,70.0,Ecuador,3.5,2016,1812
+1496,Sol Cacao,U.S.A.,72.0,Madagascar,3.0,2015,1518
+1497,Solkiki,U.K.,68.0,Peru,2.75,2016,1840
+1498,Solkiki,U.K.,85.0,Domincan Republic,2.75,2016,1840
+1499,Solomons Gold,New Zealand,70.0,Solomon Islands,3.25,2016,1792
+1500,Solomons Gold,New Zealand,75.0,Solomon Islands,3.25,2016,1796
+1501,Solstice,U.S.A.,70.0,Uganda,3.0,2014,1335
+1502,Solstice,U.S.A.,70.0,Madagascar,3.0,2013,1157
+1503,Solstice,U.S.A.,70.0,Venezuela,3.0,2013,1157
+1504,Solstice,U.S.A.,70.0,Bolivia,3.25,2013,1161
+1505,Solstice,U.S.A.,70.0,Peru,3.25,2013,1161
+1506,Solstice,U.S.A.,70.0,,3.5,2013,1161
+1507,Soma,Canada,62.0,Domincan Republic,3.5,2016,1820
+1508,Soma,Canada,70.0,Madagascar,3.5,2016,1820
+1509,Soma,Canada,70.0,Brazil,3.5,2016,1828
+1510,Soma,Canada,75.0,"Ven.,Ecu.,Peru,Nic.",3.75,2016,1828
+1511,Soma,Canada,70.0,Nicaragua,3.75,2016,1828
+1512,Soma,Canada,70.0,Vietnam,4.0,2016,1828
+1513,Soma,Canada,70.0,Ecuador,3.25,2016,1832
+1514,Soma,Canada,70.0,Venezuela,3.5,2015,1594
+1515,Soma,Canada,75.0,Venezuela,4.0,2015,1594
+1516,Soma,Canada,70.0,Nicaragua,3.5,2014,1227
+1517,Soma,Canada,70.0,Peru,3.75,2014,1259
+1518,Soma,Canada,70.0,Nicaragua,3.25,2014,1307
+1519,Soma,Canada,80.0,Ecuador,3.5,2014,1307
+1520,Soma,Canada,70.0,Vanuatu,3.75,2014,1307
+1521,Soma,Canada,70.0,Madagascar & Ecuador,3.25,2014,1339
+1522,Soma,Canada,77.0,Dominican Republic,3.75,2013,1019
+1523,Soma,Canada,70.0,Indonesia,3.25,2013,1030
+1524,Soma,Canada,70.0,Peru,2.75,2013,1073
+1525,Soma,Canada,70.0,Trinidad,3.75,2013,1073
+1526,Soma,Canada,70.0,,3.25,2013,1077
+1527,Soma,Canada,70.0,Venezuela,3.75,2013,1077
+1528,Soma,Canada,88.0,"Guat., D.R., Peru, Mad., PNG",4.0,2013,1077
+1529,Soma,Canada,70.0,Venezuela,4.0,2013,1077
+1530,Soma,Canada,67.0,"Peru, Dom. Rep",4.0,2013,1081
+1531,Soma,Canada,70.0,Venezuela,3.25,2013,1173
+1532,Soma,Canada,70.0,Jamaica,4.0,2013,1177
+1533,Soma,Canada,70.0,Haiti,3.25,2012,817
+1534,Soma,Canada,70.0,Hawaii,3.75,2012,833
+1535,Soma,Canada,70.0,"Dom. Rep., Madagascar",4.0,2012,867
+1536,Soma,Canada,70.0,"Gre., PNG, Haw., Haiti, Mad",4.0,2012,867
+1537,Soma,Canada,70.0,Guatemala,3.5,2012,951
+1538,Soma,Canada,70.0,Venezuela,3.75,2012,951
+1539,Soma,Canada,70.0,"Mad., Java, PNG",3.5,2012,967
+1540,Soma,Canada,85.0,Papua New Guinea,3.5,2012,983
+1541,Soma,Canada,70.0,Grenada,2.75,2011,676
+1542,Soma,Canada,70.0,Bolivia,3.5,2011,676
+1543,Soma,Canada,64.0,Peru,4.0,2011,676
+1544,Soma,Canada,70.0,"Ven, Bolivia, D.R.",4.0,2011,676
+1545,Soma,Canada,70.0,Dominican Republic,3.75,2011,682
+1546,Soma,Canada,70.0,Venezuela,3.5,2011,688
+1547,Soma,Canada,70.0,"DR, Ecuador, Peru",3.75,2010,607
+1548,Soma,Canada,70.0,Dominican Republic,3.0,2009,377
+1549,Soma,Canada,70.0,Ghana,3.5,2009,377
+1550,Soma,Canada,70.0,Dominican Republic,3.0,2009,387
+1551,Soma,Canada,70.0,Papua New Guinea,3.5,2009,387
+1552,Soma,Canada,70.0,Madagascar,3.75,2009,387
+1553,Soma,Canada,70.0,Venezuela,3.75,2009,387
+1554,Somerville,U.S.A.,70.0,Nicaragua,3.25,2014,1367
+1555,Somerville,U.S.A.,70.0,Hawaii,3.5,2014,1395
+1556,Soul,Canada,70.0,Dominican Republic,3.25,2017,1932
+1557,Soul,Canada,70.0,Madagascar,3.5,2017,1936
+1558,Soul,Canada,75.0,Venezuela,3.5,2017,1936
+1559,Soul,Canada,75.0,Ecuador,3.25,2017,1936
+1560,Soul,Canada,77.0,Papua New Guinea,3.25,2017,1936
+1561,Soul,Canada,80.0,Tanzania,3.5,2017,1940
+1562,Spagnvola,U.S.A.,70.0,Dominican Republic,3.0,2012,793
+1563,Spagnvola,U.S.A.,80.0,Dominican Republic,3.0,2012,793
+1564,Spagnvola,U.S.A.,75.0,Dominican Republic,3.25,2012,793
+1565,Spencer,U.S.A.,70.0,Dominican Republic,3.75,2017,1932
+1566,Spencer,U.S.A.,70.0,Ecuador,3.5,2017,1932
+1567,Spencer,U.S.A.,70.0,Peru,2.75,2017,1932
+1568,Spencer,Australia,70.0,Domincan Republic,3.5,2016,1792
+1569,Spencer,Australia,70.0,Ecuador,3.75,2016,1792
+1570,Spencer,Australia,70.0,Madagascar,3.75,2016,1792
+1571,Spencer,Australia,72.0,Vanuatu,2.75,2014,1434
+1572,Sprungli (Felchlin),Switzerland,70.0,Bolivia,3.0,2013,1057
+1573,SRSLY,U.S.A.,70.0,Dominican Republic,3.0,2013,1113
+1574,SRSLY,U.S.A.,84.0,Dominican Republic,2.25,2013,1121
+1575,Starchild,U.S.A.,70.0,Ecuador,3.0,2015,1634
+1576,Starchild,U.S.A.,70.0,Domincan Republic,3.0,2015,1692
+1577,Starchild,U.S.A.,70.0,Guatemala,3.0,2015,1692
+1578,Starchild,U.S.A.,70.0,Nicaragua,3.0,2015,1692
+1579,Starchild,U.S.A.,70.0,Madagascar,3.0,2015,1696
+1580,Stella (aka Bernrain),Switzerland,68.0,Brazil,2.75,2012,859
+1581,Stella (aka Bernrain),Switzerland,72.0,India,3.25,2011,729
+1582,Stone Grindz,U.S.A.,84.0,Ecuador,3.5,2014,1291
+1583,Stone Grindz,U.S.A.,70.0,Ecuador,3.5,2014,1291
+1584,StRita Supreme,U.S.A.,65.0,Philippines,2.5,2012,939
+1585,StRita Supreme,U.S.A.,70.0,Philippines,2.5,2012,943
+1586,StRita Supreme,U.S.A.,75.0,Philippines,2.75,2012,943
+1587,Sublime Origins,U.S.A.,67.0,Madagascar,2.75,2013,1157
+1588,Sublime Origins,U.S.A.,78.0,Belize,3.25,2013,1157
+1589,Summerbird,Denmark,61.0,Peru,2.5,2016,1800
+1590,Summerbird,Denmark,71.0,Peru,3.0,2016,1800
+1591,Suruca Chocolate,Venezuela,70.0,Venezuela,2.75,2016,1796
+1592,Suruca Chocolate,Venezuela,60.0,Venezuela,3.0,2016,1796
+1593,Svenska Kakaobolaget,Sweden,70.0,Sri Lanka,2.75,2015,1618
+1594,Szanto Tibor,Hungary,70.0,Ecuador,3.25,2015,1668
+1595,Szanto Tibor,Hungary,88.0,Cuba,3.25,2015,1704
+1596,Szanto Tibor,Hungary,70.0,Madagascar,3.25,2015,1704
+1597,Szanto Tibor,Hungary,70.0,Ecuador,3.75,2015,1704
+1598,Szanto Tibor,Hungary,70.0,Vietnam,3.25,2015,1708
+1599,Szanto Tibor,Hungary,70.0,Brazil,3.5,2015,1708
+1600,Szanto Tibor,Hungary,70.0,Venezuela,3.5,2014,1263
+1601,Szanto Tibor,Hungary,70.0,Cuba,3.75,2014,1263
+1602,Szanto Tibor,Hungary,70.0,Madagascar,3.5,2013,1185
+1604,Szanto Tibor,Hungary,70.0,Nicaragua,3.25,2013,1193
+1605,Szanto Tibor,Hungary,70.0,Dominican Republic,3.25,2012,939
+1606,Szanto Tibor,Hungary,70.0,Madagascar,3.25,2012,939
+1607,Szanto Tibor,Hungary,70.0,Peru,3.75,2012,939
+1608,Szanto Tibor,Hungary,70.0,Venezuela,3.0,2011,761
+1609,Tabal,U.S.A.,70.0,Costa Rica,2.75,2013,1101
+1610,Tabal,U.S.A.,70.0,Dominican Republic,2.75,2013,1101
+1611,Tabal,U.S.A.,70.0,Mexico,2.5,2013,1105
+1612,Tabal,U.S.A.,70.0,Peru,3.0,2013,1105
+1613,Tablette (aka Vanillabeans),Japan,70.0,Colombia,3.0,2015,1450
+1614,Tablette (aka Vanillabeans),Japan,62.0,Papua New Guinea,3.25,2015,1450
+1615,Tablette (aka Vanillabeans),Japan,60.0,Vietnam,3.25,2015,1450
+1616,Tablette (aka Vanillabeans),Japan,77.0,Trinidad,2.75,2015,1680
+1617,Tan Ban Skrati,Suriname,70.0,Suriname,3.25,2016,1868
+1618,Taza,U.S.A.,68.0,Belize,3.0,2014,1271
+1619,Taza,U.S.A.,87.0,Bolivia,3.25,2011,785
+1620,Taza,U.S.A.,75.0,Mexico,2.75,2009,451
+1621,Taza,U.S.A.,70.0,Dominican Republic,3.0,2007,180
+1622,TCHO,U.S.A.,62.0,West Africa,2.0,2016,1716
+1623,TCHO,U.S.A.,99.0,"Peru, Ecuador",3.25,2012,915
+1624,TCHO,U.S.A.,60.0,,2.75,2009,387
+1625,TCHO,U.S.A.,68.0,,3.0,2009,387
+1626,TCHO,U.S.A.,70.0,Ghana,2.5,2008,199
+1627,TCHO,U.S.A.,70.0,Peru,2.5,2008,280
+1628,TCHO,U.S.A.,70.0,Madagascar,2.75,2008,280
+1629,TCHO,U.S.A.,70.0,Peru,2.5,2008,284
+1630,Tejas,U.S.A.,70.0,Madagascar,2.75,2012,801
+1631,Tejas,U.S.A.,70.0,"Ecuador, Mad., PNG",3.0,2012,801
+1632,Tejas,U.S.A.,70.0,Papua New Guinea,3.0,2012,805
+1633,Tejas,U.S.A.,70.0,Dominican Republic,3.5,2012,805
+1634,Tejas,U.S.A.,70.0,Ecuador,3.25,2012,817
+1635,Tejas,U.S.A.,70.0,Peru,2.0,2012,821
+1636,Tejas,U.S.A.,70.0,Ecuador,3.25,2012,825
+1637,Tejas,U.S.A.,70.0,Bolivia,2.75,2012,829
+1638,Tejas,U.S.A.,70.0,Madagascar,3.0,2012,829
+1639,Tejas,U.S.A.,70.0,Mexico,3.25,2012,833
+1640,Tejas,U.S.A.,70.0,Brazil,2.75,2012,967
+1641,Tejas,U.S.A.,80.0,Venezuela,3.0,2012,971
+1642,Tejas,U.S.A.,67.0,Bolivia,3.25,2012,971
+1643,Tejas,U.S.A.,70.0,Brazil,3.5,2012,971
+1644,Terroir,U.S.A.,70.0,Peru,2.75,2015,1478
+1645,Terroir,U.S.A.,70.0,Belize,3.75,2015,1478
+1646,Terroir,U.S.A.,70.0,Madagascar,3.75,2015,1478
+1647,Terroir,U.S.A.,70.0,Ecuador,3.25,2015,1482
+1648,Terroir,U.S.A.,70.0,Domincan Republic,3.5,2015,1554
+1649,Terroir,U.S.A.,70.0,Guatemala,3.75,2015,1558
+1650,Terroir,U.S.A.,77.0,Ecuador,3.25,2014,1323
+1651,Terroir,U.S.A.,67.0,Madagascar,3.75,2014,1323
+1652,Terroir,U.S.A.,73.0,Uganda,3.75,2014,1323
+1653,The Barn,Sweden,70.0,Peru,3.0,2015,1614
+1654,Theo,U.S.A.,65.0,Congo,3.25,2012,903
+1655,Theo,U.S.A.,65.0,Madagascar,3.5,2007,162
+1656,Theo,U.S.A.,75.0,Ivory Coast,2.5,2007,184
+1657,Theo,U.S.A.,84.0,Ghana,3.0,2007,184
+1658,Theo,U.S.A.,91.0,Venezuela,2.0,2007,188
+1659,Theo,U.S.A.,75.0,"Ghana, Panama, Ecuador",3.0,2007,188
+1660,Theobroma,Japan,70.0,Peru,3.25,2015,1684
+1661,Timo A. Meyer,Germany,72.0,Belize,3.75,2016,1836
+1662,To'ak (Ecuatoriana),Ecuador,81.0,Ecuador,3.25,2014,1418
+1663,Tobago Estate (Pralus),France,70.0,Tobago,4.0,2012,895
+1664,Tocoti,U.S.A.,77.0,Bolivia,3.0,2012,927
+1665,Tocoti,U.S.A.,72.0,Venezuela,2.75,2011,789
+1666,Tocoti,U.S.A.,74.0,Dominican Republic,3.0,2011,789
+1667,Treehouse,U.S.A.,72.0,Dominican Republic,3.0,2014,1239
+1668,Tsara (Cinagra),Madagascar,72.0,Madagascar,3.5,2011,753
+1669,twenty-four blackbirds,U.S.A.,75.0,Domincan Republic,2.75,2015,1700
+1670,twenty-four blackbirds,U.S.A.,75.0,Ecuador,3.5,2015,1700
+1671,twenty-four blackbirds,U.S.A.,75.0,Madagascar,3.5,2014,1235
+1672,twenty-four blackbirds,U.S.A.,68.0,Dominican Republic,3.25,2013,1022
+1673,twenty-four blackbirds,U.S.A.,75.0,Bolivia,2.5,2013,1026
+1674,twenty-four blackbirds,U.S.A.,73.0,Dominican Republic,2.75,2011,753
+1675,Two Ravens,U.S.A.,60.0,Peru,3.0,2016,1740
+1676,Un Dimanche A Paris,France,63.0,Dominican Republic,3.75,2011,709
+1677,Undone,U.S.A.,74.0,Nicaragua,2.75,2014,1438
+1678,Undone,U.S.A.,70.0,Dominican Republic,3.0,2014,1438
+1679,Upchurch,U.S.A.,72.0,Madagascar,3.0,2016,1752
+1680,Upchurch,U.S.A.,72.0,Tanzania,3.25,2016,1752
+1681,Urzi,Italy,65.0,Venezuela,3.25,2014,1327
+1682,Valrhona,France,63.0,Peru,4.0,2015,1510
+1683,Valrhona,France,70.0,,3.5,2013,1145
+1684,Valrhona,France,64.0,Dominican Republic,3.5,2013,1153
+1685,Valrhona,France,69.0,Venezuela,4.0,2012,931
+1686,Valrhona,France,56.0,,3.25,2011,709
+1687,Valrhona,France,64.0,Venezuela,4.0,2011,757
+1688,Valrhona,France,64.0,Dominican Republic,3.75,2009,327
+1689,Valrhona,France,66.0,Ecuador,3.75,2009,370
+1690,Valrhona,France,68.0,Ghana,3.5,2009,395
+1691,Valrhona,France,72.0,"Venezuela, Carribean",3.0,2007,117
+1692,Valrhona,France,65.0,Venezuela,3.75,2007,129
+1693,Valrhona,France,64.0,Madagascar,4.0,2007,129
+1694,Valrhona,France,85.0,,1.5,2007,147
+1695,Valrhona,France,85.0,West Africa,2.5,2007,153
+1696,Valrhona,France,71.0,West Africa,2.75,2007,157
+1697,Valrhona,France,64.0,Venezuela,3.25,2007,162
+1698,Valrhona,France,66.0,Carribean,3.0,2006,63
+1699,Valrhona,France,70.0,South America,4.0,2006,63
+1700,Valrhona,France,64.0,Trinidad,2.5,2006,75
+1701,Valrhona,France,64.0,Venezuela,3.0,2006,75
+1702,Valrhona,France,64.0,Madagascar,3.5,2006,75
+1703,Vanleer (Barry Callebaut),U.S.A.,72.0,Ghana,2.5,2012,963
+1704,Vanleer (Barry Callebaut),U.S.A.,65.0,Ghana,2.75,2012,963
+1705,Vao Vao (Chocolaterie Robert),Madagascar,72.0,Madagascar,2.75,2009,404
+1706,Vao Vao (Chocolaterie Robert),Madagascar,76.0,Madagascar,2.75,2009,404
+1707,Vao Vao (Chocolaterie Robert),Madagascar,80.0,Madagascar,2.75,2009,404
+1708,Vao Vao (Chocolaterie Robert),Madagascar,70.0,Madagascar,3.0,2009,404
+1709,Vao Vao (Chocolaterie Robert),Madagascar,68.0,Madagascar,3.0,2009,404
+1710,Vao Vao (Chocolaterie Robert),Madagascar,64.0,Madagascar,3.25,2009,404
+1711,Vicuna,U.S.A.,70.0,Bolivia,3.25,2015,1470
+1713,Videri,U.S.A.,90.0,Dominican Republic,3.25,2014,1211
+1714,Videri,U.S.A.,75.0,Trinidad,3.5,2014,1211
+1715,Videri,U.S.A.,75.0,Ecuador,3.5,2014,1227
+1716,Videri,U.S.A.,90.0,Central and S. America,3.75,2013,1117
+1717,Videri,U.S.A.,70.0,Central and S. America,3.25,2012,991
+1718,Vietcacao (A. Morin),France,70.0,Vietnam,3.5,2012,951
+1719,Vintage Plantations,U.S.A.,75.0,Peru,3.0,2014,1205
+1720,Vintage Plantations (Tulicorp),U.S.A.,100.0,Ecuador,2.0,2007,153
+1721,Vintage Plantations (Tulicorp),U.S.A.,90.0,Ecuador,2.0,2007,153
+1722,Vintage Plantations (Tulicorp),U.S.A.,75.0,Ecuador,3.0,2007,153
+1723,Vintage Plantations (Tulicorp),U.S.A.,65.0,Ecuador,3.0,2007,153
+1724,Violet Sky,U.S.A.,77.0,Madagascar,2.75,2015,1458
+1725,Violet Sky,U.S.A.,77.0,Belize,3.0,2015,1458
+1726,Violet Sky,U.S.A.,77.0,Venezuela,3.0,2015,1458
+1727,Violet Sky,U.S.A.,77.0,Peru,3.25,2015,1458
+1728,Violet Sky,U.S.A.,77.0,Guatemala,2.75,2015,1502
+1729,Vivra,U.S.A.,70.0,Peru,2.5,2016,1720
+1730,Vivra,U.S.A.,70.0,Venezuela,2.5,2016,1720
+1731,Vivra,U.S.A.,70.0,Domincan Republic,3.0,2016,1724
+1732,Wellington Chocolate Factory,New Zealand,70.0,Dominican Republic,3.5,2016,1756
+1733,Wellington Chocolate Factory,New Zealand,70.0,Peru,3.5,2016,1756
+1734,Whittakers,New Zealand,72.0,Ghana,2.5,2011,733
+1735,Wilkie's Organic,Ireland,75.0,Peru,2.5,2013,1169
+1736,Wilkie's Organic,Ireland,89.0,Peru,2.75,2013,1169
+1737,Wilkie's Organic,Ireland,75.0,Peru,3.25,2013,1169
+1738,Wilkie's Organic,Ireland,75.0,Peru,2.75,2013,1173
+1739,Willie's Cacao,U.K.,70.0,Colombia,4.0,2016,1848
+1740,Willie's Cacao,U.K.,88.0,Colombia,3.0,2014,1227
+1741,Willie's Cacao,U.K.,100.0,Indonesia,2.25,2013,1109
+1742,Willie's Cacao,U.K.,71.0,Madagascar,3.0,2010,593
+1743,Willie's Cacao,U.K.,72.0,Venezuela,3.5,2010,593
+1744,Willie's Cacao,U.K.,69.0,Indonesia,3.75,2010,593
+1745,Willie's Cacao,U.K.,70.0,Peru,3.0,2009,457
+1746,Willie's Cacao,U.K.,72.0,Venezuela,3.25,2009,457
+1747,Wm,U.S.A.,74.0,Venezuela,3.0,2016,1912
+1748,Wm,U.S.A.,76.0,Bolivia,3.5,2016,1912
+1749,Wm,U.S.A.,75.0,Ghana,3.75,2016,1916
+1750,Woodblock,U.S.A.,70.0,Peru,3.0,2014,1243
+1751,Woodblock,U.S.A.,70.0,Ecuador,3.25,2013,1042
+1752,Woodblock,U.S.A.,70.0,Trinidad,3.5,2013,1042
+1753,Woodblock,U.S.A.,70.0,Ecuador,2.5,2012,825
+1754,Woodblock,U.S.A.,70.0,Costa Rica,3.0,2012,825
+1755,Woodblock,U.S.A.,70.0,Madagascar,3.25,2012,951
+1756,Woodblock,U.S.A.,70.0,Venezuela,4.0,2011,741
+1757,Woodblock,U.S.A.,70.0,Dominican Republic,3.5,2011,769
+1758,Xocolat,Domincan Republic,66.0,Dominican Republic,3.0,2013,1057
+1759,Xocolla,U.S.A.,70.0,Madagascar,2.75,2017,1948
+1760,Xocolla,U.S.A.,70.0,Dominican Republic,2.5,2017,1948
+1761,Zak's,U.S.A.,70.0,Papua New Guinea,3.0,2015,1574
+1762,Zak's,U.S.A.,70.0,Domincan Republic,3.25,2015,1578
+1763,Zak's,U.S.A.,70.0,Madagascar,3.25,2015,1578
+1764,Zak's,U.S.A.,70.0,Peru,3.25,2015,1578
+1765,Zak's,U.S.A.,70.0,Belize,3.5,2015,1578
+1766,Zak's,U.S.A.,60.0,,3.0,2015,1582
+1767,Zart Pralinen,Austria,70.0,Madagascar,3.5,2016,1820
+1768,Zart Pralinen,Austria,70.0,Ecuador,2.75,2016,1824
+1769,Zart Pralinen,Austria,85.0,Trinidad,2.75,2016,1824
+1770,Zart Pralinen,Austria,85.0,Tanzania,3.0,2016,1824
+1771,Zart Pralinen,Austria,70.0,Tanzania,3.5,2016,1824
+1772,Zart Pralinen,Austria,78.0,Trinidad,3.5,2016,1880
+1773,Zokoko,Australia,78.0,Solomon Islands,3.75,2016,1716
+1774,Zokoko,Australia,65.0,,3.25,2016,1780
+1775,Zokoko,Australia,68.0,Bolivia,3.5,2011,697
+1776,Zokoko,Australia,66.0,Papua New Guinea,3.5,2011,701
+1777,Zokoko,Australia,72.0,Bolivia,3.75,2011,701
+1778,Zotter,Austria,80.0,,2.75,2014,1205
+1779,Zotter,Austria,72.0,Panama,3.5,2012,801
+1780,Zotter,Austria,65.0,,3.5,2012,801
+1781,Zotter,Austria,70.0,Peru,3.0,2012,875
+1782,Zotter,Austria,70.0,Peru,3.5,2012,875
+1783,Zotter,Austria,62.0,Dominican Republic,3.75,2012,875
+1784,Zotter,Austria,75.0,Ecuador,3.0,2012,879
+1785,Zotter,Austria,75.0,Papua New Guinea,3.0,2012,879
+1786,Zotter,Austria,90.0,Bolivia,3.25,2012,879
+1787,Zotter,Austria,70.0,Dominican Republic,3.75,2012,879
+1788,Zotter,Austria,68.0,Congo,3.25,2012,883
+1789,Zotter,Austria,58.0,,3.5,2012,883
+1790,Zotter,Austria,70.0,Peru,3.75,2011,647
+1791,Zotter,Austria,65.0,Congo,3.0,2011,749
+1792,Zotter,Austria,65.0,India,3.5,2011,749
+1793,Zotter,Austria,62.0,India,3.25,2011,781
+1794,Zotter,Austria,65.0,Brazil,3.0,2010,486
